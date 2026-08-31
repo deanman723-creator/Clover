@@ -1,6 +1,835 @@
--- main.lua
--- Disguised with disguis.es
-local _re0 = "\xC2\x58\x04\x18\x0C\x3D\x46\xD0\x88\x0E\xB7\xCA\x80\xD3\x66\xE6\xD5\x6C\x28\x6B\xA9\x91\x9A\xD2\x2E\x27\x3A\xC6\x33\x9D\x36\x49\x14\xB5\x13\x76\x4D\xDD\x69\x0F\x08"
-local _aj1 = "\xC2\x58\x04\x18\x0C\x3D\x46\xD0\x88\x0E\xB7\xCA\x80\xD3\x66\xE6\xD5\x6C\x28\x6B\xA9\x91\x9A\xD2\x2E\x27\x3A\xC6\x33\x9D\x36\x49\x14\xB5\x13\x76\x4D\xDD\x69\x0F\x08"
-local _dh2 = "\xC2\x58\x04\x18\x0C\x3D\x46\xD0\x88\x0E\xB7\xCA\x80\xD3\x66\xE6\xD5\x6C\x28\x6B\xA9\x91\x9A\xD2\x2E\x27\x3A\xC6\x33\x9D\x36\x49\x14\xB5\x13\x76\x4D\xDD\x69\x0F\x08"
-local __fj,W,I,Q,X,O,S,T,V,an,z,E,w,F,G,H,J,L,N,q local _nBj=2685844 while true do if _nBj==10488773 then _fAP=0 _nBj=14087563 elseif _nBj==9266927 then Q=function(aN,aF,...)local as=I(aF)local ag=aN[as]return ag(aN,...)end _nBj=5336138 elseif _nBj==8468911 then E=function(...)return W(__fj("\x68\xA6\x3A\x20\x82\x59\x78\x9B\xD2\xC0\x1C\x4F\x91\xB9\x9F\xAE\xD9\x7B\x24\x4A\x02\xA2\x88\xEB\xDF\x09\xFF\x9F\x11\x89\x8E\x9D\x8C\xC4\xAD\x13\x8D\xEB\x3E\x5A\xD2\x52\xE2\xEF\x91\x59\xC1\xE1\xDA\x0D\x36\xDC\x63\xC1\x6A\xF1\x52\xC8\xC5\x3F\x1A\x29\x64\xE7\x6D\x83\xEC\xD2\x68\xC1\x4C\xED\x1E\x6B\x9B\x9B\x91\xF9\x45\x7B\xC2\x26\x37\xB7\x13\x61\x19\xFD\x73\xE1\x7D\xDF\x9F\x88\x9C\xD3")..__fj("\x7D\xE9\xE7\xFA\xCB\xE3\x5C\x9B\x72\x4A\x3B\x4F\xC3\xB9\x70\x75\xFD\x5F\xF7\x4A\x03\x21\xD1\x86\x7F\xED\x1E\x9F\x0D\x94\x9A\xC3\xF0\x9D\x6D\xCD")..__fj("\xFB\x3B\xB9\x87\xDB\x62\xF0\xFB\x0F\x84\x40\x1F\xEA\x9D\x89\xA3\xD4\x84\x04\xD7\x06\xAB\xB7\x4B\x87\x12\x2E\xFF\x7F\x79\x57\x50\x6E\xCD\xAC\x27\xEF\x51\x0B\x65\xCD\x88\x98\x44\x3A\x5C\x36\xA7\xEE\x43\x8F\x77\x69\x6A\x5E\x59\xDE\xD1\xD2\x9F\xFF\x89\x41\xBF\x8F\x8C\x48\xC7\xDE\xB3\x6B\x3B\x2A\x1A\xF6\xEF\xFF\x07\x9D\x48\x1B\xD5\x82\x17\x2D\xC1\x4E\x0C\x79\xEA\x1F\x12\x76\x29\x35\x1F\x47\xFF\xE1\x67\x7E\x08\x05\x0B\x2E\x60\x6D\x8F\x0F\x8E\x73\x83\xB9\xFC\x0A\x8A\x2A\x6F\xAF\x2B\xEB\xF6\x7E\x7F\x54\xAA\x50\xD3\x3E\x8A\x53\x56\xAA\xE5\x54\x7B\x3F\x2F\x26\x1B\xB9\xA7\x06\xF6\xE3\x03\x80\x1D\xB9\x88\x29\xD1\xB3\x95\x20\xD1\xFB\xC3\x54\x73\xB6\xAA\x13\xF9\x87\xAF\x1D\x1B\x84\x93\x86\x3D\x73\xBD\xFC\x8B\x60\x55\xC1\x0B\x84\xEB\x10\xED\x7A\x13\x7F\x1F\xAA\x76\xF1\x07\x3A\x25\xB4\x47"),{(0x2*0x4),(0x25+0xE),(0x1CAD-0x77),(0x731+0x2D6),__fj("\x6B\x2C\x3F\xB0"),((0x3+0x20)*0x2),__fj("\x38\x9E\xF9\x55\xC3\x3F"),0,1,(0x11+0x13),__fj("\x92\x4F\x69\xDC\xBD\xF2"),__fj("\x5D\x30\x47\xB4"),4017743254},{...},{V,O,X})end _nBj=3350057 elseif _nBj==5336138 then X=function(aN,aF)return aN[I(aF)]end _nBj=2499312 elseif _nBj==2685844 then __fj=function(s,_k)local r local _W=9962776 while true do if _W==11905460 then r={}_W=15904022 elseif _W==9962776 then _k=_k or(bit32.bxor(0x1B,0x60)+0x2*bit32.band(0x1B,0x60))_W=10728238 elseif _W==15904022 then for i=1,#s do local b=(string.byte(s,i)-(0x8A+0x3F)*_k-(0x31+0x3C)*i-((0x37+0x2)*0x2)*i*i)%(bit32.bxor(0x94,0x6C)+0x2*bit32.band(0x94,0x6C))r[i]=string.char(b)end break elseif _W==10728238 then _k=_k+(_fAP or 0)_W=11905460 end end return table.concat(r)end _nBj=1265293 elseif _nBj==1265293 then W=function(d,e,k,n,l)local m,A,aD,Z,aa,ab,t,u,B,D,y,g,ah,au,ap,ar,aK local _j=15558110 repeat if _j==2241754 then Z=string.byte _j=5564689 elseif _j==6577486 then B,D=(bit32.bor(0xE,0xE)+bit32.band(0xE,0xE)),(0x13+0x70)_j=1305080 elseif _j==15558110 then m={}_j=3091728 elseif _j==5266057 then ab=table.concat _j=577949 elseif _j==5564689 then aa=string.char _j=5266057 elseif _j==10173197 then ar=function(f,aL)local aH,aS local _XTa=7729830 while true do if _XTa==13218569 then ap[aL]=aS break elseif _XTa==5553490 then aS=f[aL]_XTa=8018279 elseif _XTa==8018279 then if type(aS)==__fj("\xE5\xA9\x4E\xD0\x44\x90")then local aR=aS local aq=((0x1C+0x6-0xA)+aL*t+(_fAP or 0))%((0xC1-0xBD)*0x4+0xF0)local aQ={}for ai=1,#aR do local aF=((string.byte(aR,ai)-(0xE-0x5)*aq-((0x11+0x25)*0x2)*ai-(0x1*0xB+0x5)*ai*ai)%(0x6E+0x92))aQ[ai]=aa(aF)end local aI=ab(aQ)ap[aL]=aI return aI end _XTa=13218569 elseif _XTa==7729830 then aH=ap[aL]_XTa=9597293 elseif _XTa==9597293 then if aH~=nil then return aH end _XTa=5553490 end end return aS end _j=16177839 elseif _j==14705222 then if type(d)==__fj("\xE6\x96\x3E\xD3\x3B")then d=table.concat(d)end _j=2955736 elseif _j==16177839 then aK=1 _j=13895372 elseif _j==3091728 then A=getfenv()_j=9726216 elseif _j==13895372 then while true do local aO=au(ah(aK),aK)local av=aK+1 local aE=((ah(av)-((0x45-0x2A)*0x2+0xA7))*(0x53+0x8))%(0x1F2-0xF2)local aw=aK+(0x1+0x1)local aF=((ah(aw)-(0xA4+0xFA-0xC1))*(0x12*0x5+0x1))%(0x125-0x25)local ax=aK+(bit32.bor(0x2,0x1)+bit32.band(0x2,0x1))local aG=((ah(ax)-((0x127-0xD8)*0x2+0x3F))*(bit32.bor(0x7,0x54)+bit32.band(0x7,0x54)))%(0x15+0x157-0x6C)aK=aK+(0x2+0x3-0x1)if aO==(bit32.bor(0x8,0xBB)+bit32.band(0x8,0xBB))then m[aE]=m[aF]^m[aG]elseif aO==((0x1F+0x35)*0x2)then m[aE]=m[aF][ar(e,aG+1)];aE,aF,aG=((ah(av+(0x1+0x3))-(0xA+0xD3))*(0x2E+0x38-0xB))%(bit32.bor(0x67,0x99)+bit32.band(0x67,0x99)),((ah(aw+(0x1+0x3))-(0x116-0x39))*(bit32.bor(0x2B,0x30)+bit32.band(0x2B,0x30)))%(0x74+0x8C),((ah(ax+(bit32.bxor(0x2,0x2)+0x2*bit32.band(0x2,0x2)))-(bit32.bxor(0xD6,0x7)+0x2*bit32.band(0xD6,0x7)))*(0x3+0x58))%(bit32.bxor(0xC1,0x3F)+0x2*bit32.band(0xC1,0x3F));aK=aK+(0x2+0x2);m[aE]=m[aF]-m[aG]elseif aO==(bit32.bxor(0x90,0x61)+0x2*bit32.band(0x90,0x61))then m[aE]={}elseif aO==((0x1D+0x6)*0x2)then m[aE]={}elseif aO==(0x39+0x47-0x1)then m[aE]=ar(e,aF+1)elseif aO==(0x16*0xA+0x4)then m[aE]=(m[aF]<=m[aG])elseif aO==(0x83+0x30)then aK=(((aF*(0x6A+0x96)+aG)-((0x8E1+0x183)*0x2))*(bit32.bxor(0x2654,0xBD6B)+0x2*bit32.band(0x2654,0xBD6B)))%(0x2F0+0xFD10)+1 elseif aO==((0x1+0x36)*0x2)then m[aE]=ar(e,aF+1)elseif aO==(0xF+0x78)then m[aE]=(m[aF]==m[aG]);aE,aF,aG=((ah(av+(0x5+0x2-0x3))-(0xA7+0x36))*((0x3F-0x39)*0x6+0x37))%(0x145-0x45),((ah(aw+(0x3+0x1))-(0x24*0x6+0x5))*(0x95-0x3A))%(0x37+0x150-0x87),((ah(ax+(0x2+0x2))-(0x1AD-0xD0))*(bit32.bxor(0x14,0x47)+0x2*bit32.band(0x14,0x47)))%(0x80*0x2);aK=aK+(0x6-0x2);m[aE]=m[aF]^m[aG]elseif aO==(0x90+0x45)then m[aE]=(function()local aC={}for am=1,l[aF+1][(0x1+0x2)]do aC[am]=m[aG+am-1]end return function(...)return W(l[aF+1][1],l[aF+1][(0x2+0x2-0x2)],{...},aC,l)end end)()elseif aO==((0x12+0x12)*0x2)then m[aE]=m[aF][ar(e,aG+1)]elseif aO==(0x9F+0x4D)then m[aE]=m[aF]+m[aG]elseif aO==((0x2F+0xA)*0x2)then m[aE]=A[ar(e,aF+1)]elseif aO==(0x18*0x6+0x3)then m[aE]=m[aF]*m[aG]elseif aO==(bit32.bor(0x5E,0x19)+bit32.band(0x5E,0x19))then m[aE]=(aF~=0)elseif aO==(0x25+0x24)then m[aE]=(aF~=0)elseif aO==(bit32.bxor(0x2E,0x5B)+0x2*bit32.band(0x2E,0x5B))then m[aE]=m[aF]%m[aG]elseif aO==(0xB3+0x5-0x58)then m[aE]=m[aF][m[aG]];aE,aF,aG=((ah(av+(0x3+0x3-0x2))-(0x8A+0x53))*(0x1+0x5A))%(0x1C9-0xC9),((ah(aw+(0x3+0x5-0x4))-(0x37*0x4+0x1))*(0x7+0x90-0x3C))%(0x5D+0x13E-0x9B),((ah(ax+(0x5+0x3-0x4))-(bit32.bor(0x85,0x58)+bit32.band(0x85,0x58)))*(0x47+0x14))%(0x1D1-0xD1);aK=aK+(0x3+0x1);m[aE]=#m[aF]elseif aO==((0x3+0xA)*0x3)then m[aE]=k[aF+1]elseif aO==(0x3B+0x34-0x32)then m[aE]=m[aF]elseif aO==(0x40+0x11-0x1F)then m[aE]=(not m[aF])elseif aO==(bit32.bor(0x7A,0x12)+bit32.band(0x7A,0x12))then m[aE]=(m[aF]<m[aG])elseif aO==(0x9*0x10+0x9)then m[aE]=#m[aF]elseif aO==(0x83-0x1)then m[aE]={}elseif aO==(0x13F-0x86)then m[aE]=m[aF]/m[aG]elseif aO==(0x36+0x65)then m[aE]=A[ar(e,aF+1)]elseif aO==(0xAD+0x75-0x54)then m[aE]=ar(e,aF+1)elseif aO==(bit32.bor(0x21,0x5F)+bit32.band(0x21,0x5F))then m[aE]=(not m[aF]);aE,aF,aG=((ah(av+(0x2+0x2))-(bit32.bor(0xD5,0x8)+bit32.band(0xD5,0x8)))*(0xD*0x7))%(0x19C-0x9C),((ah(aw+(0x6-0x2))-(bit32.bxor(0xB8,0x25)+0x2*bit32.band(0xB8,0x25)))*((0x8+0x5)*0x7))%(0x9D+0x63),((ah(ax+(0x2*0x2))-(0x5A+0x83))*(0x46+0x15))%(bit32.bor(0x2B,0xD5)+bit32.band(0x2B,0xD5));aK=aK+(0x2+0x2);m[aE][m[aF]]=m[aG]elseif aO==(0x8+0x2)then n[aF+1][1]=m[aG]elseif aO==(0x11*0x9+0x6)then m[aE]=(m[aF]<=m[aG]);aE,aF,aG=((ah(av+(bit32.bxor(0x1,0x3)+0x2*bit32.band(0x1,0x3)))-(bit32.bor(0x95,0x48)+bit32.band(0x95,0x48)))*(0x25+0x36))%(0x20+0xE0),((ah(aw+(0x2+0x2))-(0xC6+0x17))*(bit32.bor(0x8,0x53)+bit32.band(0x8,0x53)))%(bit32.bor(0x29,0xD7)+bit32.band(0x29,0xD7)),((ah(ax+(0x3+0x1))-(0x14+0xC9))*(bit32.bor(0x13,0x48)+bit32.band(0x13,0x48)))%(0x77+0x89);aK=aK+(0x6-0x2);m[aE]={}elseif aO==(0x1B*0x5+0x1)then m[aE]=m[aF][m[aG]];aE,aF,aG=((ah(av+(0x3+0x1))-(0x2F+0xAE))*(0x39+0x22))%(0x157-0x57),((ah(aw+(0x1+0x3))-(0x44+0x99))*((0xB+0x2)*0x7))%(0x12+0xEE),((ah(ax+(bit32.bxor(0x3,0x1)+0x2*bit32.band(0x3,0x1)))-(0x1D+0xC0))*(bit32.bxor(0x6,0x55)+0x2*bit32.band(0x6,0x55)))%(0x20+0xE0);aK=aK+(0x1+0x3);m[aE]=n[aF+1]elseif aO==(0x1+0x40)then m[aE]=ar(e,aF+1)elseif aO==(0x7C-0x3)then m[aE]=m[aF]-m[aG]elseif aO==(0x23+0x2)then m[aE]=m[aF]-m[aG]elseif aO==(0x5E+0xC5-0x49)then m[aE]=#m[aF]elseif aO==(0x5+0x15)then m[aE]=m[aF]elseif aO==(0x2B-0x15)then m[aE][ar(e,aF+1)]=m[aG]elseif aO==(0x35+0x38)then m[aE]=m[aF][ar(e,aG+1)]elseif aO==(0x29*0x4)then if m[aE]then aK=(((aF*(0xB9+0x47)+aG)-(0x449+0x107F))*(0xC020+0x2440-0xA1))%(0x1C71*0x9+0x7)+1 end elseif aO==(0x92+0x36-0xD)then m[aE]=m[aF][m[aG]]elseif aO==(0x1*0xC)then local Y={}for ao=1,aF do Y[ao]=m[aE+ao]end if aG==0 then m[aE](aD(Y,1,aF))elseif aG==1 then m[aE]=m[aE](aD(Y,1,aF))else local ay={m[aE](aD(Y,1,aF))}for ao=1,aG do m[aE+ao-1]=ay[ao]end end elseif aO==(0xA*0xD+0x1)then m[aE]=m[aF][m[aG]];aE,aF,aG=((ah(av+(0x8-0x4))-(0x24*0x6+0x5))*(0xB0-0x55))%(bit32.bor(0xCD,0x33)+bit32.band(0xCD,0x33)),((ah(aw+(0x2+0x2))-(0x42+0x9B))*(bit32.bxor(0xC,0x4F)+0x2*bit32.band(0xC,0x4F)))%(0x159-0x59),((ah(ax+((0x1+0x1)*0x2))-(0x85+0x58))*((0xA+0x3)*0x7))%(0x92+0x6E);aK=aK+(0x3+0x1);m[aE]=m[aF][m[aG]]elseif aO==((0x22-0xE)*0x4+0x2C)then m[aE]=m[aF]*m[aG]elseif aO==(0x6F+0x4D)then m[aE]=-m[aF]elseif aO==(bit32.bxor(0x2,0xB)+0x2*bit32.band(0x2,0xB))then if aF==0 then return elseif aF==1 then return m[aE]else local az={}for ao=1,aF do az[ao]=m[aE+ao-1]end return aD(az,1,aF)end elseif aO==(bit32.bor(0x1B,0x1E)+bit32.band(0x1B,0x1E))then m[aE]=(aF~=0)elseif aO==(bit32.bor(0x1B,0xAF)+bit32.band(0x1B,0xAF))then m[aE]=ar(e,aF+1);aE,aF,aG=((ah(av+(0x3+0x2-0x1))-(0x66+0x77))*(0x3D+0x1E))%(bit32.bxor(0x62,0x9E)+0x2*bit32.band(0x62,0x9E)),((ah(aw+((0x1+0x1)*0x2))-(0x25+0x106-0x4E))*(bit32.bxor(0x54,0x7)+0x2*bit32.band(0x54,0x7)))%(bit32.bxor(0x26,0xDA)+0x2*bit32.band(0x26,0xDA)),((ah(ax+(0x3+0x3-0x2))-(0x14*0xB+0x1))*(0xF*0x6+0x1))%(0x24+0xDC);aK=aK+(bit32.bor(0x1,0x3)+bit32.band(0x1,0x3));m[aE]=A[ar(e,aF+1)]elseif aO==(0xD*0xF+0xD)then m[aE]=A[ar(e,aF+1)]elseif aO==(bit32.bor(0x15,0x4)+bit32.band(0x15,0x4))then m[aE]=#m[aF]elseif aO==(bit32.bxor(0x9,0xDD)+0x2*bit32.band(0x9,0xDD))then m[aE][m[aF]]=m[aG]elseif aO==(0x4E-0x25)then m[aE]=m[aF]-m[aG];aE,aF,aG=((ah(av+(0x2+0x2))-(bit32.bor(0x7C,0x61)+bit32.band(0x7C,0x61)))*(bit32.bxor(0x1B,0x40)+0x2*bit32.band(0x1B,0x40)))%(0x18C-0x8C),((ah(aw+(bit32.bor(0x1,0x3)+bit32.band(0x1,0x3)))-(0x46+0x97))*((0x7+0x6)*0x7))%(0x2A*0x6+0x4),((ah(ax+(0x3+0x1))-(0x25+0xB8))*((0x8+0x5)*0x7))%((0x108-0xD6)*0x4+0x38);aK=aK+((0x1+0x1)*0x2);m[aE]=(m[aF]<m[aG])elseif aO==(0xD*0x3+0x1)then m[aE]=m[aF][ar(e,aG+1)]elseif aO==(0x17+0x15-0xB)then m[aE]=(not m[aF]);aE,aF,aG=((ah(av+(0x5-0x1))-((0xED-0xCD)*0x6+0x1D))*(0x9C+0x2-0x43))%(0x64+0x9C),((ah(aw+(bit32.bor(0x1,0x3)+bit32.band(0x1,0x3)))-(bit32.bxor(0x4D,0x90)+0x2*bit32.band(0x4D,0x90)))*(0x62+0x1C-0x23))%(0x17*0xB+0x3),((ah(ax+((0x1+0x1)*0x2))-((0x76-0x71)*0x4+0xC9))*((0x6+0x7)*0x7))%(0xCF+0x31);aK=aK+(0x3+0x1);m[aE]=(m[aF]<m[aG])elseif aO==(0xC+0xEB)then m[aE]=(aF~=0);aE,aF,aG=((ah(av+(bit32.bxor(0x1,0x3)+0x2*bit32.band(0x1,0x3)))-(0xBD+0x20))*(bit32.bor(0x3E,0x1D)+bit32.band(0x3E,0x1D)))%(0xC7+0x39),((ah(aw+((0x1+0x1)*0x2))-(bit32.bxor(0x8C,0x51)+0x2*bit32.band(0x8C,0x51)))*(bit32.bor(0x4F,0xC)+bit32.band(0x4F,0xC)))%(0x12*0xE+0x4),((ah(ax+(0x2+0x2))-(0x94+0x49))*((0x2+0xB)*0x7))%((0x22+0x5E)*0x2);aK=aK+(0x1+0x3);m[aE]=(not m[aF])elseif aO==(0x57+0xB)then m[aE]=m[aF]elseif aO==(0x2A*0x5+0x2)then m[aE]=k[aF+1]elseif aO==((0x61-0x4C)*0x4+0x42)then m[aE]=m[aF]..m[aG]elseif aO==(bit32.bxor(0x2C,0x3D)+0x2*bit32.band(0x2C,0x3D))then m[aE]=(m[aF]<m[aG])elseif aO==(0x197-0xC5)then m[aE]=(aF~=0)elseif aO==(0x70-0x1D)then m[aE]=m[aF]/m[aG];aE,aF,aG=((ah(av+(0x6-0x2))-(bit32.bor(0xB5,0x28)+bit32.band(0xB5,0x28)))*(0x70+0x27-0x3C))%(0x1A+0xE6),((ah(aw+(0x3+0x1))-(0x18B-0xAE))*(bit32.bxor(0xB,0x50)+0x2*bit32.band(0xB,0x50)))%(0x6D+0x93),((ah(ax+(0x2+0x2))-(0x128-0x4B))*(bit32.bxor(0x14,0x47)+0x2*bit32.band(0x14,0x47)))%(bit32.bxor(0xFF,0x1)+0x2*bit32.band(0xFF,0x1));aK=aK+(0x2+0x2);m[aE]={}elseif aO==(0x152-0x5D)then m[aE]=m[aF][ar(e,aG+1)]elseif aO==((0x3+0x40)*0x2)then m[aE]=n[aF+1][1]elseif aO==(0x12*0xB+0x6)then m[aE]=m[aF]+m[aG]elseif aO==(bit32.bor(0xB,0x37)+bit32.band(0xB,0x37))then if aF==0 then m[aE](aD(k,1,#k))elseif aF==1 then m[aE]=m[aE](aD(k,1,#k))else local ay={m[aE](aD(k,1,#k))}for ao=1,aF do m[aE+ao-1]=ay[ao]end end elseif aO==(0xD*0x9)then m[aE][m[aF]]=m[aG]elseif aO==((0x8+0x4)*0x2)then m[aE]=m[aF]%m[aG]elseif aO==(0x81+0x1D-0x2D)then m[aE]=n[aF+1]elseif aO==(0x45+0x48)then if not m[aE]then aK=(((aF*(0xF4+0xF5-0xE9)+aG)-((0x971+0xF3)*0x2))*(0x8994+0x5A2B))%(bit32.bxor(0x7652,0x89AE)+0x2*bit32.band(0x7652,0x89AE))+1 end elseif aO==(0xFA-0x5E)then m[aE]=(m[aF]==m[aG])elseif aO==(0x64+0x62)then m[aE]=m[aF]+m[aG]elseif aO==(0x7+0xF-0x4)then m[aE]=m[aF]-m[aG]elseif aO==(0x64-0x24)then m[aE]=(aF~=0)elseif aO==(0x75+0x58)then m[aE]=ar(e,aF+1)end end _j=1606162 elseif _j==2955736 then aD=table.unpack or unpack _j=2241754 elseif _j==9414830 then ap={}_j=10173197 elseif _j==1305080 then y={(bit32.bor(0x40,0x9D)+bit32.band(0x40,0x9D)),(0x1+0x1),(0x5+0x2),(0x7E+0x1B),(bit32.bxor(0x85,0x1E)+0x2*bit32.band(0x85,0x1E)),(bit32.bxor(0x37,0xBF)+0x2*bit32.band(0x37,0xBF))}_j=7735427 elseif _j==577949 then t,u=(0xDB+0x21),(bit32.bor(0x9,0x7)+bit32.band(0x9,0x7))_j=6577486 elseif _j==2403988 then ah=function(aP)local aS=g[aP]if aS==nil then aS=((((Z(d,aP)-B*aP-D)%((0x6B+0x15)*0x2))-t*aP-u*aP*aP)%((0x13+0x6D)*0x2))g[aP]=aS end return aS end _j=7533097 elseif _j==9726216 then n=n or{}_j=14705222 elseif _j==7533097 then au=function(aF,aP)local aT=(aF+aP)%(0x95+0xDA-0x6F)for aM=1,#y,(0x3-0x1)do aT=(aT*y[aM]+y[aM+1])%(0xDB+0x25)end return aT end _j=9414830 elseif _j==7735427 then g={}_j=2403988 end until _j==1606162 end _nBj=3102654 elseif _nBj==2971124 then q=(function(...)return W(__fj("\xAA\xDF\x2C\x37\x82\x59\x78\x9B\xAB\xC0\x1C\x4F\xB4\x6E\x0A\x17\x92\x7B")..__fj("\x2A\x75\xDE\xFB\xF2\x7A\xF3\x5E\xC5\x30\xDE\x39\x3C\x3E\xA4\xAC\x8D\x45\xF8\xB3\xD1\x99\x49\xFA\xCE\x2D\xDE\x3D\xF6\xD3\xD8\x75\x4A\x15\xE9\x7C\x80\x69")..__fj("\x47\xDD\x27\x67\x96\xF4\x86\x94\xA5\xF2\x2F\x62\xD6\xE6\x6E\xB2\x96\x07\x29\xB7\xDF\x4D\xB0\xD2\x87\x68\x12\xDF\x3B\x96\xBB\xD3\xA7\x23\xED\x07\x7B")..__fj("\x7A\xCB")..__fj("\xD2\x40\xCB\x18\x69\x21\x98\x12\xE1\x51\x00\xE6\xDE")..__fj("\xD7\x09\xAF\x92\x51\xF2\xEB\x8E\xDF\x1E\x35\x6F\xC5\xC5\xCE\xE6\x91\x06\xC4\x97\xD2\x49\x28\x0B"),{__fj("\xF3\xB2\xC0\x3F\x2A\x67\x01\xF4\x55\x0A"),__fj("\xCA\x80\xA8\x1C"),__fj("\x87\x6F\x8B\x03\xB6\x10\xBB"),__fj("\x9E\x09\x6C\xCF\x3D\x73\xDB\x52\xFF\x8D\x09\x55\x22\xB3\x43\xD5\x6B\x08\xBC\x1C\x0C\xAE\x72\x18\xE0\xA0\x55\xE5\xF1\xC3\x8B\x2A\x48\x2A\x06\xAE\xCF\xD2\x96\xB3\x98\x80\x89\x7D\x9B\xCB\xDC\xF4\xF4\x19\x50\x77\x94\xC0\xF1\x4C\x5A\xA4\xEA\x3F\x7C\xC5\x2B\x8F\xC4\x1C\x8A\x08\x57\xF2\x1D\xCC\x2B\x8F\x2E\xD1\x3E\xD5\x59\xDD\x94\x5F\xCD\xA8\x33\xF6\x82\x5B\xFC\xE7\x71\x29\x0F\xE4\xAD\xAE\x5F\x62\x4C\x2F\x0C\x06\xDD\xEC\xCD\xE6\xCA\xFA\xF4\xD3\xFA\x36\x40\x5D\x71\xB8\xC6\xEC\x26\x45\xAF\xE5\x1E\x48\xBB\x08\x7B\xC4\x05\x83\xEB\x48\xAB\x10\x7D\x0C\x6D\x06\x6A\x1B\x94\x15\x9E\x65\xEA\x7C\xF9\xE3\x74\x21\xC6\x9F\x52\x1A\xC6\xAC\x66\x14\xEE\xB4\xBC\x86")},{...},{O,Q})end)()break elseif _nBj==2499312 then O=function(aF)local as=I(aF)return getfenv()[as]end _nBj=270366 elseif _nBj==13850142 then L=1761003969 _nBj=4879544 elseif _nBj==13951921 then do local af=(O(__fj("\xCB\xF0\x47\xDC")))((0x31+0x5E));end _nBj=13850142 elseif _nBj==9201879 then G=__fj("\xDF\xA9\x14\xB6\x49\x92\x91\xC0\xB3\xC7\x74\x20\xD6\x3B\x80\x93\xDB\xE8\xA0\x8B\x34\xC8\x31\xBF\xD7\xF6\x03\xEA\xBE\x7B\xFE\x9F\x0A\x3F\x51\x5B\x5C\x2B\xEB\x8D\xEA\x5E\x7D\xD4\xB6\xAA\x90\x4E\xEE\x8B\xC2\x1E\x56\x6B\x51\x56\x1E\xC0\x0D\x73\xC3\xF3\x0B\x17")_nBj=5150352 elseif _nBj==3102654 then I=function(aR,ao)local aQ local __vc=15499855 repeat if __vc==10770817 then ao=ao+(_fAP or 0)__vc=215466 elseif __vc==15499855 then ao=ao or(0x122-0x36)__vc=10770817 elseif __vc==215466 then aQ={}__vc=8109692 elseif __vc==8109692 then for aK=1,#aR do local aF=(string.byte(aR,aK)-(0xAA-0x4F)*ao-(0x3D+0x96)*aK-((0x3+0x14)*0x2)*aK*aK)%(0x13*0xD+0x9)aQ[aK]=string.char(aF)end __vc=4604910 end until __vc==4604910 return table.concat(aQ)end _nBj=9266927 elseif _nBj==3400766 then V=(function(...)return W(__fj("\xC2\x05\x14\x27\x7F\x2C\x78\x9B\x5F\x93\xEF\x4F\xD3\x89\x4E\x34\x92\x4E\xCA\x77\xD1\xF1\xCA\x57\x2B\x09\xA5\x9F\xBC\xBF\x4B\x60\x9F")..__fj("\x61\xE6\x9C\xE4\xF8\x60\x80\xBB\xD2\x1A\x06")..__fj("\x86\xEA\x5A\x47\x65\x11\x64\xAD\x92\xA5\x65\x53\x06\x4C\xEC\x63\xFB\xEA\x16\x77\x81\x87\xFB\x76\x37\x16\x8E\x78\x11\xC2\xEE\xFF\x17\x8D\x95\xD0\xC6\xFD\x57\x5B\x8E\x64\xED\xF3\x05\x49\xDD\xC0\xDF\x68\x9B\x37\x22\xC7\xB7")..__fj("\x15\x51\x96\x71\xF6\x20\xB8\x49\xEC\x6C\x71\x4D\xC8\x97\x5E\x88\x64\x9E\x4C\x94\x86\x79\x1E\xDC\xBD\x2C\x27\x43\xFE\xCC\x5E\xC8\x55\xD1\xD5\x3E\x16\xE9\x8C\xE9\xC3\x81\xD9\x9C\x87\x22\x3E\x37\xE2\x3C\x8B\x42\x4C\x61\x42\x82\xAA\x76\x0C\x42\x88\x09\x9D\x5A\x94\xCA\x4C\xE6\x3E\xC6\x30\xFF\x2F\x6D\x55\x4F\xE2\x0C\x04\xA7\xC7\xF2\xFC\x0D\x38\x53\x40\x23\x12\xBD\x64\x0A\x0E\x82\x90\x1B\x33\x9D\x6C\x5F\x56"),{1325122365,2589444121,1,((0x1+0x1F)*0x2),(bit32.bor(0xFAA832,0x55A80)+bit32.band(0xFAA832,0x55A80)),2147483647,2654436512,(0x3+0x1C)},{...},nil)end)()_nBj=467398 elseif _nBj==13390466 then if(V[((0x7+0x14)*0x2)]+V[(0x4+0x1A)])%(0x10E4+0x551)==(0x92+0x4E)then local aA=(X(O(__fj("\xCA\xEB\x49\xE0\xC5\xDE")),__fj("\xC9\xDC\x47")))(__fj("\xEA"),(bit32.bxor(0x1,0x2)+0x2*bit32.band(0x1,0x2)));end _nBj=9201879 elseif _nBj==4964584 then J=2719361788 _nBj=13951921 elseif _nBj==3350057 then if(S[(0x19+0x15-0x6)]*S[(0x6*0x9+0x6)])%(bit32.bor(0x60F,0x1B77)+bit32.band(0x60F,0x1B77))==(0x1F4F-0xE)then for al=1,(0x2+0x4)do local q=al;end end _nBj=1562560 elseif _nBj==1562560 then w=(function(...)return W(__fj("\xF3\xEB\xC4\xE1\x82\x59\x78\x9B\xB3\x3E\x8D\x2C\x92\x94\x00\x43\xD9\x7B\x24\x4A\x02\xA2\x88\xEB\xDF\x09\xFF\x9F\x8C\xB0\x89\xDF\x4D\x97\xDA\xE6\x68\xEA\x6D\x8F\xFF\x52\xE2\xEF\x73\x15\x83\xA9\xDA\x0D\x36\xDC\xD2\x34\x21\x8B\x8F\x8D\xAB\x06\x6D\x6F\xC8\x9E\x5E\x83\x18\x1F\x68\xB5\xB1\xCF\x5F\x3E\xA8\x8F\xD3\xCF\x9D\xDE\xBF\xF9\x83\xB7\x0D\x20\xD9\x0F\xDF\x87\x5E\xDF\xBD\x2E\x07\x5D\x42\x15\x47\x07\x47\x6C\xD3\xB7\xCE\xD0\xAC\x2F")..__fj("\x46\xFB\x79\x47\xDC\x6B\x6B\x94\xD1\x10\x8F\x42\x5E\x8B\xDC\xD9\xC2\x9E\xC7\x97\xE7\x04\x06\x96\xB6\x59\x9F\xBF\x57\xBE\x8B\x06\x67\x14\x50\xE7\x86\x3B\xD0\x5B\xD1\xFC\xAF\xE2\xC2\xFD\x0F\x03\xCB\x63\x24\xF2\xD1\x92\x1B\x7E\x86\x72\x57\x5F\x4E\x1F\x19\x8F\xA1\x2D\x9D\x7C\x82\x54\x20\xFB\x52\x15\xCF\x5F\x3F\x72\x2D\xBC\xF6\xA3\xD7\xD7\x42\x19\x83\x52\x82\x5E\x7A\xFF\x73\x05\xB5\xF3\x21\xF3\xAB\x43\x51\x9A\x4B\x6E\x27\xD4\x5D\x4F\xE8\x7C\xE8\x86\xF6\x8F\xCA\x77\xDF\xB6\x42\xEB\xB6\x1D\xFF\x9F\x45\x5F\x14\x65\x67\xD8\x94\xC7\xB3\xFF\x30\x3B\xD1\xC0\x0F\xC2\x07\x2F\xBB\x22\x9F\xD5\x77\x17\x93\xA2\xE6\x8B\xA8\xF0\xE9\x2E\x42\x64\x09\x33\x83\xE9\x9B\xAC\x51\x26\x5E\xAE\x5C\x8E\xAC\x6D\xC2\xBB\xCD\x83\xE8\xBA\xA2\x64\xD1\x50\x9B\xFE\x13\xA9\x7D\xDF\x84\x9F\xCB\x06\xA1\x64\x5B\xB3\xA7\xD4\x57\x7B\xFB\x5C\xE2\xE7\x12\x3C\x6A\x37\x04\x83\x03\xD7\x36\x5B\x8E\xCB\x85\x6B\x5F\xA4\x67\x96\xC2\x73\x84\x53\x35\xDD\xB6\xD1\xCB\x1B\x42\x8D\x96\x8A\x9F\x0C\x78\xC3\xF3\xF3\x3C\xF7\xD1\x74\xDB\x3E\x85\x0B\x5A\xF0\x67\x09\x5B\x13\x83\x90\xF5\x6A\x86")..__fj("\x33\x2B\x1C\x84\x54\xC5\x26\xBC\x55\x46\x24\xA4\x9C\x06\x7E\x4E\x77\x63\xFF\x32\xE4\x41\x1B\xFC\x5E\xCA\x34\x94\x2C\xFD\xF3\x8E\x26\x8D\x0F\x84\x3A\xEA\xD4\xAF\xEE\x7F\x58\xD4\xBC\x7E\x8B\x39\x89\x5D\x4C\xF1\x04\xC9\x90\x6F\x51\x18\x54\x03\x68\x6C\xB8\x48\xD0\xA0\xCC\xEF\x83\xEB\x40\x10\x5A\xF9\x64\x1B\xDC\x04\x7B\x4E\x4F\xD0\x3F\x2F\xB9\x8E\x50\x53\x90\xB8\x74\xE4\x6C\x57\x08\xBF\x2B\x03\x7C\x04\xB4\x1B\xD7")..__fj("\xA7\x21\x0B\x67\x85\xA2\x8B\xAE\x36\x63\x65\x8F\x02\xCF\x44\x8B\xC5\x78\x37\x8A\x67\x18\x52\x2B\xBF\xCB\xE0\x9A\xD5\x53\xB3\x82\x6B\x3A\xF6\x07\x2B\x89\x33\x50\x86\x22\x24\x3F\x38\x6F\x93\x09\x30\xDD\x84\x57\x7B\xD7\xBC\xF0\x86\xC5\x5F\x7F\x12\xC1\x2A\xB8\xB0\x80\x67\xA7\x86\xD4\xCB\x1B\x0A\x60\x38\x89\xC6\x41\x80\xC3"),{(0xB-0x5),(bit32.bor(0x22,0xD)+bit32.band(0x22,0xD)),(bit32.bor(0x1C57,0x590)+bit32.band(0x1C57,0x590)),(bit32.bxor(0xAF0,0x72)+0x2*bit32.band(0xAF0,0x72)),(bit32.bxor(0x13,0x23)+0x2*bit32.band(0x13,0x23)),((0x6+0x1E)*0x2),(0x84-0x3A),__fj("\xFF\xC0\xD3\x44"),__fj("\xCB\x88\xA1\x30\xFE"),__fj("\xD2\x1E\x82\xF3\x57"),__fj("\x86\x40\x6B\xDB\xBE\xFA\x92"),__fj("\x7C\xEA\x46\xA2\x1E\x82\xFB\x71"),__fj("\x3E\xF8\x23\x98\x6C\xB7\x40\x4F\x98\x55\x7B\xF0"),__fj("\x12\xB6"),nil},{...},{S,O,X})end)()_nBj=4922098 elseif _nBj==270366 then S=(function(...)return W(__fj("\xC2\x05\x14\x27\x7F\x2C\x78\x9B\xD2\x93\xEF\x4F\x1F\x3A\xA6\x43\xE8\x3B\xA4\xE7\xCE\x75\x01\xEB\x93\x85\x45\xCD\x3F\xB0\x89\x93\x74\x33\xAC\xBB\x73\xEB\xB7")..__fj("\x92")..__fj("\xEB\x8D\xD4\x5B\xEA\xDE\xDE\x5B\x09\x45\x28\x01\x2F\x49\x05\x0E\x76\x2D\xF0\xCF\x6A\x54\x94\xAB\x25\xBB\xBF\xCA\x0C\x44\x93\x0C\x55\x76\x32\xD3\x17\x9D\x77\xFB\x6F\x15\x2D\x36\x72\xD8\xF1\x87\x26\x08\xBB\xD7\x6A\x13\x5A\x4B\xF2\xE5\x69\xF8\xE5\x4E\x96\x7D\xEB\xCD\x4B\xA0\xEA\x89\x3D\x9B")..__fj("\x5D\x88\xE0\xD7\x3E\xE2\xB1\xE9\x6D\x43\xF9\xD2\xAA\x09\x74\x28\xA2\xFE\xC3\xF7\xE7\x71\xE7\x97\xAA\xB9\x82\xC8\x27\xD9\xCA\x5C\xFB\xCB\x30\x47\x67\x41\x41\x4D\x67\x5C\x8F\x15\x2F\x03\xBF\x63\xA1\xBD\x69\x2D\x2A\x3E\x77\x2D\x84\x08\x70\xAD\xC7\xB1\xFC\xA8\x84\xC0\x12\x79\xED\x65\x84\x20\x54\xAD\xFC\x57\xF8")..__fj("\xB5\x79\xB7\x13\xA6\x34\x20\x13\x5B\x62\xAB\x33\xEE\xC9\xA8"),{2654435769,2246822507,1,((0x1C+0x4)*0x2),(0x184609+0xE7BB8A),2147483647,2654435761,(0x20+0x5-0x6)},{...},nil)end)()_nBj=16370097 elseif _nBj==6078872 then F=__fj("\xA2\x65\x25\xCC\x2B\x92\xA1\xED\xCC\xBF\x7B\x22\xA5\x37\x70\xD1\xB8\xE8\xB4\x78\x5E\xCE\x20\xA0\xE3\x03\x26\x10\xDA\x71\x27\x88\xDE\x18\x33\x7C\x6A\xFD\xCF\x75\xE6\x52\x94\xBD\xF5\xDB\xC1\x48\x07\x74\xD6\x23\x76\x82\x82\x23\x03\xBD\x1C\x85\xDD\xF1\x11\x1E")_nBj=13390466 elseif _nBj==14087563 then do do local ac=(O(__fj("\xCB\xF0\x47\xDC")))((0xF+0x24F-0xA5));end if(T[(bit32.bxor(0xB,0x21)+0x2*bit32.band(0xB,0x21))]*T[(0xB+0x2A)])%(0x19DD-0x39)==(0x908+0x5A4)then local at=(0x2E+0x9)*(0x19+0x9)+(0x14*0x4+0x3);end do local aJ=0;for aK=1,#F do aJ=(aJ*(bit32.bor(0x15,0x14)+bit32.band(0x15,0x14))+(X(O(__fj("\xCA\xEB\x49\xE0\xC5\xDE")),__fj("\xB9\xF0\x4B\xDC")))(F,aK))%0xFFFFFFFF;end _fAP=_fAP+(aJ-J);end if(T[(bit32.bor(0x1,0x1)+bit32.band(0x1,0x1))]+T[(0x46-0x14)])%(bit32.bxor(0x10A5,0x4EA)+0x2*bit32.band(0x10A5,0x4EA))==(0xA23-0x4C)then for ak=1,(0x1+0x3)do local q=ak;end end do if(T[(0x19+0xA-0x8)]*T[(0x5+0x6)])%(bit32.bxor(0x1E43,0x672)+0x2*bit32.band(0x1E43,0x672))==(bit32.bxor(0xB48,0x75)+0x2*bit32.band(0xB48,0x75))then for aj=1,(0x2+0x1-0x1)do local q=aj;end end local ad=(X(O(__fj("\xCA\xEB\x49\xE0\xC5\xDE")),__fj("\xC9\xDC\x47")))(__fj("\xDF"),(0x6+0x3-0x3));end do local aJ=0;for aK=1,#G do aJ=(aJ*(0x28+0x7)+(X(O(__fj("\xCA\xEB\x49\xE0\xC5\xDE")),__fj("\xB9\xF0\x4B\xDC")))(G,aK))%0xFFFFFFFF;end _fAP=_fAP+(aJ-L);end do local ae=(X(O(__fj("\xCA\xEB\x49\xE0\xC5\xDE")),__fj("\xC9\xDC\x47")))(__fj("\xE0"),(bit32.bxor(0x2,0x4)+0x2*bit32.band(0x2,0x4)));end do local aJ=0;for aK=1,#H do aJ=(aJ*(0x4D-0x1E)+(X(O(__fj("\xCA\xEB\x49\xE0\xC5\xDE")),__fj("\xB9\xF0\x4B\xDC")))(H,aK))%0xFFFFFFFF;end _fAP=_fAP+(aJ-N);end end _nBj=2971124 elseif _nBj==16370097 then T=(function(...)return W(__fj("\xC2\x05\x14\x27\x8E\x16\xCD\x8B\xFF\xC0\x1C\x4F\x23\x89\x80\xB1\x92\x7B\xF7\x77\x6A\x43\x37\x4A\xDF\x36\xD2\x9F\x33\xDD\x89\x93\x12\xC4\xAD\xC7\x8E\xB2\x39\x31\xCE\x7F\x5B\xEF\xBF\x26\xC6\xE3\x2A\xE5\x5E\x3E\x71\x61\xF4\x7D\x8F\xB6\xF5\x6A\x5E\xC9\x13\xAF\x12\xB0\xA0\x67\xB4\xE6\x11\x9A\x0D\x6B\x2F\xFA\x3D\x12\x7E\xCF\x9A\xDD\x8B\x0F\xFF\x4D\xE7\x2B\x90\xC5\xCD\xB5\x5A\x88\x61\xB7")..__fj("\xAE\xD8\xCB\x27\x1F\xE3\x6A\x9B\xAD\x4A\xC2\xD9\x37\x89\xD1\xAF\x5F\x05\xE9\x77\xAD\x2C\xD4\x1B\x9D\x93\x89\xA2\x43\x59\x8E\xBF\xB2\x4E\x53\xC7\x3A\x75\x6E\xE4\x7A\x55\x58\x92\x2E\x07\x9C\xE3\xBD\xC4\x17\xBD\x03\x91\xCA\xC9\x1F\x7F\x6B\x3F\xFA")..__fj("\xD7\xDC\x5E\x0C\xA6\xAD\x15\x5F\x72\x70\x1B\x32\x3A\x15\x6D\x08\x6D\x6B\x2E\x19\x36\xB4\x2C\x63\x3A\x18\x54\x38\xD8\x19\x0C\x03\x02\x2D\x5C"),{1551655539,3458785125,1,(0xE+0x4A-0x18),(bit32.bxor(0xB1A8D4,0x4E5B0A)+0x2*bit32.band(0xB1A8D4,0x4E5B0A)),2147483647,2654436696,(0x9+0x16)},{...},nil)end)()_nBj=3400766 elseif _nBj==1918286 then z=function(...)return W(__fj("\x11\xC8\x8D\x4F\x82\x59\x78\x9B\xFF\xC0\x1C\x4F\xCE\x6C\x4B\x38\xD9\x7B")..__fj("\x2A\x48\xF8\x90\x6E\xC9\x55\xD7\xC5\x5D\x06\x02\x0E\x6D\x22\x52\x33\x91\xDE\x3A\x54\xDD\xB3\xCD\x28\x4C\x98\xD5\x1F\x1B\xD5\x48\xF0\x15\x10\x4F\x80\x2E\x66\xEE\x62\x27\xC8\x4A\x4F\xD1\x03\x11\x72\x50\x14\x45\xC0\xF9\x1D\x27\xA0\x3F\x78\x40\x66\xA1\xA8\x07\xB6\xB5\x59\x1A\xB4\x61\x28\x82\x51\x9D\x6D\x90\xDA\x28\xA8\xFD\xEC\x85\x2A\xA4\x6B\x97\x28\x78\x87\x6D\x6D\xE0\x10\x9E\xB0\x86\xC7\x79\xC8\x27\x66\xA9\x30\x2E\x72\x67\x55\x22\x81\x11\x84\x36\x22\x0E\x6D\x58\x8E\x7C\x28\x91\x20\x0D\x98\x54\x62\xEA\xD5\x0C\xE8\xF5\x09\x5A\xFE\x8C\xB5\x87\xB0\xDD\x55\x0E\x82\xB1\x81\xD5\x89\xC5\x2A\xDF\xFC\x60\x0E\x50\x02\xAD\xA0\xD7\xBB\x81\x39\xC6\xB5\x31\xA1\xD2\xD6\xE9\x28\x19\xA3\x7D\x67\xA0\x78\xEC\x21\xB6\x4E\x3D\x14\xC8\x09\xFD\x69\xBE\xC5\x96\xF8\xC3\xE6\x21\x35\x8A\xBD\x35\x0F\x91\x42\x70\x58\xD8\xB2\x1D\x06\xC2\xA8\xDB\xA8\x53\x12\x05\xCD\xEA\x1B\x0A\xA2\xCE\xCF\x4D\x06\x12\x6C\xA2\x2D\x49\xC4\x08\x72\x99\xA2\x44\x55\xC4\xB6\xBD\x59\x62\x1F\x4B\xF0\x3F\xA0\x7E\xF5\x46\x95")..__fj("\x92\xE8\xBE\x0B\xD5\xA9\xA2\x9A\x3A\x6D\x99\x11\x9E\xBD\xD0\x58\x22\x28\xB9\x78\x40\x58\x2B\xC8\xE2\xBA\x22\x07\x2E\x28\x59\x16\x50\x3D\xD0\xD2\x76\x1B\x33\xD2\x1B\x0E\xAB\x6B\xBE\x6D\xE2\x41\x42\x0E\x5F\xB6\xAA\x99\x3D\x2D\x0A\xB5\x67\xFE\x18\x2A\x98\xEE\xD2\x5D\xAF\x36\x8F\x28\x4D\x66\x6D\x46\x9E\x84\xDE\xEA\x7B\x11\x62\x49\x79\x52\x26\x5B\x63\x86\x24\xF8\xDB\xBD\x41\x9E\x5E\xA2\xF2\x4B\x8F\x69\x42\xC3\xB9\x33\xBA\xC6\xB0\x89\xFE\x08\x6E\x81\x55\xCD\x8B\x38\x46\x6D\xA6\x6A\x9F\x08\x66\xED\x3D\x49\xCA\x35\x26\x95\xAF\x61\x1B\xE2\x25\xA9\x83\xFE\xB7\xEB\xFC\xBD\x80\xF7\xA2\x55\xBF\x54\x47\x65\xDB\x78\x92\xA6\xA2\x52\x04\x56\x3E\xC6\x32\x7F\x0C\xC1\x1E\xDD\xBE\xC2\xFA\x48\xB5\xDD\x0C\x7E\x3B\xC0\xC1\x19\xBD\x47\x56\x6E\x74\x99\x06\x57\x5A\x49\x46\xFD\xCF\xE7\x52\xD5\x46\x93\x5D\x7E\xE6\x2D\x1A\x83\x06\x23\x70\x2F\x98\xFD\x0A\x4D\x29\x34\xA6\x78\xE0\x99\x97\x79\x04\x16\xE2\xBE\x6B\x9F\x34\x09\xDF\x68\x36\xDC\xF3\xF3\x13\xC6\xBA\xBD\x7E\x7B\x7B\x19\x17\xC9\x32\xA2\xC6\xB3\x7D\x5F\x6E\xCE\x0D\x9D\x0E\x13\xC6\xBF\x86\xFF\x6C\xA1\x7E\x5D\x89\x75\x5A\xC8\x80\xBD\xD7\x09\xE4\xF5\x6A\xD2\x5B\x85\x8F\x7F\x98\x2F\x0A\x2D\x36\x53\x2E\xC5\x6D\x2A\x64\xE6\x62\x84\x76\x4F\x70\x35\xA2\xED\xEC\x1C\xBE\x3C\xBB\x77\x31\x28\xC7\x85\x5E\x16\x5B\x33\x2C\xF9\xCF\x78\xBA\xE1\x06\xC1\x4E\x25\x7D\xD8\xDD\x8A\x61")..__fj("\xC6\x15\xB1")..__fj("\x85\x8C\xB4\x5B\x2A\xBF\xD1\xFF\x60\x79\x24\xA5\xCE\x6B\xB0\xAB\x15\x60\xF1\x53\x8D\x59\x10\x48\xDD\x82\x35\xCE\xA8\x2F\x0F\x74\xA5\xA0\xB2\xDF\xF0\xA3\x48\x5C\xC7\x1E\x44\xD4\xDE\x9F\xA8\xFC\x48\x7A\x4C\x11\xF9\x07\x05\xE4\xE3\x35\x54\xE8\x70\x78\x20\xE8\x24\x4F\xCA\x18\x89\xB5\xF8\x75\xCA\xBE\x48\xFF\xE4\x3C\xC8\x6F\x92\xFD\x6C"),{(0x4+0x2),((0xDC-0xDA)*0x6+0x15),(bit32.bxor(0x341,0x8FA)+0x2*bit32.band(0x341,0x8FA)),(0xB2+0x617),1,(0x300+0xD9),(bit32.bor(0x1,0x1)+bit32.band(0x1,0x1)),(0x7B+0x7F-0x19),(0x1+0x2),(0x130-0x57),0,(0x2+0x2),(0x41E+0x25),((0x50+0x15)*0x2),(0x1C+0x11),(0x34+0x14-0x18),((0x18+0x10)*0x2),__fj("\x96\x53\x6D\xE0\xC1\xF6"),__fj("\x61\x34\x4B\xB8"),(0x11*0xD+0xC),(0x133+0xA-0x3D),((0x4+0xF)*0x3),(0xC6-0x2A),(bit32.bxor(0x2F,0x4)+0x2*bit32.band(0x2F,0x4)),(0x36-0x12)},{...},{V,X,O})end _nBj=8468911 elseif _nBj==467398 then an=function(...)return W(__fj("\xC2\x05\x14\x27\x7F\x2C\x78\x9B\x13\xC9\x9D\x74\xB3\x67\xD3\x43\x97\xB1\x9C\x80\xB8\xA2\x88\xEB\x47\xD9\xEE\x45\xEA\xDD\x89\x93\x0E\xC4\x80\xC7\x90\xD5\xC8\x70\xFF\x7F\x3C\xEF\x31\x26\xC6\x02\x6D\xAA\x97\xCD\x1E\x8E\x6A\xBF\x82\xF5\x4C\x3F\x53\x0D\x5E\xD2\x9F\xB0\x27\x67\x93\x75\x9C\xED\x4C\x6B\xF4\xFA\xA8\x43\xED\x76\x1F\x26\x0A\xB7\xC7\x63\xAA\xB6\xAD\xE1\xAA\xF0\x5E\xB5\xC9\x77\x3F\x9C\xED\x07\xDF\xC3\x24\x7B\x10\xA9\xC1\xC7\xCD\xFE\x17\xAD\xF4\x1D\x97\xEB\xFF\x39\x07\xCB\xD7\xA0\xE9\xAF\x42\x47\x43\x73\xEB\x2E\x6A\xA7\x63\x1B\xC9\x66\x02\xE9\x42\xCF\x6B\x90\xFC\xC3\x92\x77\x96\xF7\x9D\xF8\xDB\x3E\x57\x19\x38\x40\x0E\x8D\xDF\x13\x12\x1A\x79\x47\x2B\xC8\x0D\xBB\x63\xE9\x75\x8A\x5D\x8A\x46\x36\x8E\xBD\x6D\x97\xB8\xE4\x28\x0B\x5A\xB9\x9D\xC0\x0E\x1F\x56\xB3\x34\x01\x53\x9D\x1D\xE1\xDE\x2E\xB8\xEE\xAF\x0F\xD0\x5D\xF7\xF4\x92\xA9\x7C\x37\x0D\xD0\x89\xBF\xE3\x59\x6B\xAD\xBD\x0B\x98\x3A\xE3\xF2\xAE\x2D\xDF\x19\xC3\xFB\xE3\xDE\xC0\x7C\xDA\x54\x6D\x03\xC2\x3B\xD7\xD7\x63\x65\x92\xC5\x4E\xF6\x12\xFF\x42\x9D\x96\xF3\xF3\x62\xAC\xBD\x2B\xD8\x24\x9B\xFF\x3F\x0E\x4F\x5D\x40\xD3")..__fj("\x25\xA7\x80\x63\x8D\xEE\xBC\x92\x1A\x52\x59\x85\x5E\xCB\x6E\xC2\x1B\x01\xBB\x94\xA6\x16\xFC\x14\x00\xB0\x1D\x3D\xC1\x31\xA0\xE4\x72\xC1\x17\xF2\x36\x60\x28\x86\x0D\x4A\x54\x8D\x76\x86\x94\x65\x55\x0A\x02\xB5\xB8\x36\x0B\x08\x3E\xD7\x64\xF4\xA2\xE5\x66\x7E\x92\x41\xDD\xFD\x56\xA6\x2C\x0E\xC4\x55\xB8\x2D\x9E\x71\xEF\x3F\x22\x05\x66\xC0\xE6\xA0\x77\x76\xBD\xBE\xC8\xEE\x2E\x35\xA5\x2F\xB2\x9E\xA3\xBC\x76\x60\xE1\x99\x4D\xA1\x24\x98")..__fj("\x72\x81\x28\x4A\xFB\x6A\x93\xB3\x3A\x24\xE4\xBA\x51\x3A\x94\x45\xEA\x5A\x92\x9F\xC6\x6C\xD0\xE4\xC2\xA6\x6D\xEE\x0E\xE2\xAE\x7B\xC9\xD2\xA2\x68\x56\x95\x86\x26\x5A\xA5\x74\x87\x9E"),{1,(0x5*0xB+0x8),(0x45FFE50*0x6+0x2),(bit32.bxor(0x1,0x4)+0x2*bit32.band(0x1,0x4)),(0x13*0x5+0x4),(bit32.bor(0x11,0x14)+bit32.band(0x11,0x14)),__fj("\x22\xDF\xF9\x6C\x4D\x82"),__fj("\xED\xC0\xD7\x44"),(bit32.bxor(0x3,0x1)+0x2*bit32.band(0x3,0x1)),(bit32.bxor(0xD9,0x27)+0x2*bit32.band(0xD9,0x27)),__fj("\x82\x43\x58\xE5"),__fj("\x6F\x18\x35\xBB\x90"),__fj("\x3A\x02\x1D\x8E\x68\xB7"),(0x8*0x10+0x1)},{...},{S,X,O})end _nBj=1918286 elseif _nBj==4879544 then N=((0x33B7BE0+0x141CE3C3)*0x2)_nBj=10488773 elseif _nBj==4922098 then if not w then return end _nBj=6078872 elseif _nBj==5150352 then if V[(0x3E+0x14-0x19)]>(0x17C0A6DB+0x177084F9)then local aB={((0x7+0x76)*0x3),((0x71+0xBA)*0x3),(0x4C*0xC)};end _nBj=11158357 elseif _nBj==11158357 then H=__fj("\xC7\x7C\x12\x99\x44\x74\xD2\xE9\xBC\x92\x75\x43\xC5\x13\x9B\xD3\xF3\xFC\xAF\xAB\x1B\xEA\x57\xB8\x03\xE6\xF6\xF0\x9F\x92\x26\x67\xD4\x2D\x4F\x4E\x57\x00\xF7\x65\xFC\x4D\xAB\xD6\xB6\xC2\x91\x6C\x0D\x5D\xD6\x21\x4D\x7C\x54\x34\xF8\xA3\x17\xB7\xD2\x0C\x46\x3E")_nBj=4964584 end end
+getgenv().MM2Hub = getgenv().MM2Hub or {}
+local S = getgenv().MM2Hub
+
+-- ══════════ SERVICES ══════════
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local Lighting = game:GetService("Lighting")
+local UserInputService = game:GetService("UserInputService")
+local VirtualUser = game:GetService("VirtualUser")
+local HttpService = game:GetService("HttpService")
+local Workspace = game:GetService("Workspace")
+local Camera = Workspace.CurrentCamera
+local LP = Players.LocalPlayer
+
+-- ══════════ DEFAULTS ══════════
+S.Aimbot        = S.Aimbot or false
+S.FOV           = S.FOV or 120
+S.Smoothness    = S.Smoothness or 0.6
+S.ShowFOVCircle = S.ShowFOVCircle or false
+S.AimPart       = S.AimPart or "Head"
+S.AutoShoot     = S.AutoShoot or false
+S.ShootDelay    = S.ShootDelay or 0.4
+S.AutoKnife     = S.AutoKnife or false
+S.KillOnSight   = S.KillOnSight or false
+S.ESP_M         = S.ESP_M or false
+S.ESP_S         = S.ESP_S or false
+S.ESP_I         = S.ESP_I or false
+S.ESP_Box       = S.ESP_Box or false
+S.ESP_Name      = S.ESP_Name or false
+S.ESP_Tracer    = S.ESP_Tracer or false
+S.ESP_Coin      = S.ESP_Coin or false
+S.ESP_Gun       = S.ESP_Gun or false
+S.ESP_Spanner   = S.ESP_Spanner or false
+S.ESP_Crossbow  = S.ESP_Crossbow or false
+S.WalkSpeed     = S.WalkSpeed or 16
+S.JumpPower     = S.JumpPower or 50
+S.NoClip        = S.NoClip or false
+S.Fly           = S.Fly or false
+S.FlySpeed      = S.FlySpeed or 50
+S.InfiniteJump  = S.InfiniteJump or false
+S.AutoCollect   = S.AutoCollect or false
+S.CoinMagnet    = S.CoinMagnet or false
+S.MagnetRadius  = S.MagnetRadius or 50
+S.AutoGrabGun   = S.AutoGrabGun or false
+S.AutoEquipGun  = S.AutoEquipGun or false
+S.AutoGrabSpanner = S.AutoGrabSpanner or false
+S.AutoGrabKnife = S.AutoGrabKnife or false
+S.CrossbowMode  = S.CrossbowMode or false
+S.Fullbright    = S.Fullbright or false
+S.NoFog         = S.NoFog or false
+S.CameraFOV     = S.CameraFOV or 70
+S.Crosshair     = S.Crosshair or false
+S.RainbowLight  = S.RainbowLight or false
+S.AntiAfk       = S.AntiAfk or false
+S.AntiFall      = S.AntiFall or false
+S.AutoRespawn   = S.AutoRespawn or false
+S.AutoKill      = S.AutoKill or false
+S.KillRange     = S.KillRange or 25
+S.TeleportKill  = S.TeleportKill or false
+S.KillAura      = S.KillAura or false
+S.AutoWin       = S.AutoWin or false
+S.SmartMode     = S.SmartMode or false
+S.LoopDelay     = S.LoopDelay or 0.5
+S.RainbowUI     = S.RainbowUI or false
+S.Accent        = S.Accent or Color3.fromRGB(255, 45, 85)
+S.DebugLogs     = S.DebugLogs or false
+
+-- ══════════ HELPERS ══════════
+local function Char(p) return p and p.Character end
+local function HRP(p) local c = Char(p); return c and c:FindFirstChild("HumanoidRootPart") end
+local function Human(p) local c = Char(p); return c and c:FindFirstChildOfClass("Humanoid") end
+
+local function Log(...) if S.DebugLogs then print("[MM2HUB]", ...) end end
+
+local function GetRole(p)
+    local c = Char(p)
+    if not c then return "Unknown" end
+    local hasKnife, hasGun = false, false
+    for _, v in pairs(c:GetChildren()) do
+        if v:IsA("Tool") then
+            local n = v.Name:lower()
+            if n:find("gun") or n:find("pistol") or n:find("luger") then
+                hasGun = true
+            elseif n ~= "spanner" and n ~= "coin" and n ~= "map" then
+                hasKnife = true
+            end
+        end
+    end
+    if hasKnife then return "Murderer" end
+    if hasGun then return "Sheriff" end
+    return "Innocent"
+end
+
+local function GetMurderer()
+    for _, p in pairs(Players:GetPlayers()) do
+        if p ~= LP and GetRole(p) == "Murderer" then return p end
+    end
+    return nil
+end
+
+local function GetSheriff()
+    for _, p in pairs(Players:GetPlayers()) do
+        if p ~= LP and GetRole(p) == "Sheriff" then return p end
+    end
+    return nil
+end
+
+local function FindItems(pattern)
+    local list = {}
+    for _, v in pairs(Workspace:GetChildren()) do
+        local n = v.Name:lower()
+        if v:IsA("Tool") and n:find(pattern) then
+            table.insert(list, v)
+        elseif v:IsA("Model") and n:find(pattern) then
+            table.insert(list, v)
+        elseif v:IsA("Model") then
+            local t = v:FindFirstChildOfClass("Tool")
+            if t and t.Name:lower():find(pattern) then table.insert(list, v) end
+        end
+    end
+    return list
+end
+
+local function ItemPos(v)
+    if v:IsA("Tool") then
+        local h = v:FindFirstChild("Handle")
+        return h and h.Position or v:GetPivot().Position
+    end
+    return v:GetPivot().Position
+end
+
+local function TpTo(pos)
+    local hrp = HRP(LP)
+    if hrp and pos then
+        hrp.CFrame = CFrame.new(pos + Vector3.new(0, 4, 0))
+    end
+end
+
+local function AimAt(target)
+    local c = Char(target)
+    if not c then return end
+    local part = S.AimPart == "Head" and c:FindFirstChild("Head") or HRP(target)
+    if part and Camera then
+        Camera.CFrame = Camera.CFrame:Lerp(CFrame.lookAt(Camera.CFrame.Position, part.Position), S.Smoothness)
+    end
+end
+
+local function GetGunTool()
+    local c = Char(LP)
+    local g = c and (c:FindFirstChild("Gun") or c:FindFirstChild("Crossbow"))
+    if not g then g = LP.Backpack:FindFirstChild("Gun") or LP.Backpack:FindFirstChild("Crossbow") end
+    return g
+end
+
+local function GetKnifeTool()
+    local c = Char(LP)
+    for _, v in pairs(c and c:GetChildren() or {}) do
+        if v:IsA("Tool") and v.Name:lower() ~= "gun" and v.Name:lower() ~= "spanner" then return v end
+    end
+    for _, v in pairs(LP.Backpack:GetChildren()) do
+        if v:IsA("Tool") and v.Name:lower() ~= "gun" and v.Name:lower() ~= "spanner" then return v end
+    end
+    return nil
+end
+
+local function Equip(tool)
+    if not tool then return end
+    local hum = Human(LP)
+    if hum then pcall(function() hum:EquipTool(tool) end) end
+end
+
+local function ShootGun()
+    local gun = GetGunTool()
+    if gun then
+        Equip(gun)
+        pcall(function() gun:Activate() end)
+        for _, c in pairs(gun:GetChildren()) do
+            if c:IsA("RemoteEvent") then pcall(function() c:FireServer() end) end
+        end
+    end
+end
+
+local function GrabGun()
+    local items = FindItems("gun")
+    if #items > 0 then
+        TpTo(ItemPos(items[1]))
+        task.wait(0.25)
+        for _, v in pairs(items) do
+            local t = v:IsA("Tool") and v or v:FindFirstChildOfClass("Tool")
+            if t then pcall(function() t.Parent = LP.Backpack end) end
+        end
+    end
+end
+
+local function GrabSpanner()
+    local items = FindItems("spanner")
+    if #items > 0 then
+        TpTo(ItemPos(items[1]))
+        task.wait(0.25)
+        for _, v in pairs(items) do
+            local t = v:IsA("Tool") and v or v:FindFirstChildOfClass("Tool")
+            if t then pcall(function() t.Parent = LP.Backpack end) end
+        end
+    end
+end
+
+local function KillMurderer()
+    local m = GetMurderer()
+    if not m then return end
+    AimAt(m)
+    if S.TeleportKill or S.KillRange > 999 then TpTo(HRP(m).Position) end
+    local gun = GetGunTool()
+    if gun then
+        ShootGun()
+    else
+        local knife = GetKnifeTool()
+        if knife then
+            Equip(knife)
+            task.wait(0.15)
+            pcall(function() knife:Activate() end)
+        else
+            GrabGun()
+        end
+    end
+end
+
+-- ══════════ FLY ══════════
+local flyActive = false
+local flyBV, flyBG
+local function ToggleFly(on)
+    flyActive = on
+    S.Fly = on
+    local hrp = HRP(LP)
+    if on and hrp then
+        flyBV = Instance.new("BodyVelocity"); flyBV.MaxForce = Vector3.new(9e9, 9e9, 9e9); flyBV.Parent = hrp
+        flyBG = Instance.new("BodyGyro"); flyBG.MaxTorque = Vector3.new(9e9, 9e9, 9e9); flyBG.Parent = hrp
+    elseif flyBV then
+        pcall(function() flyBV:Destroy() end); flyBV = nil
+        pcall(function() flyBG:Destroy() end); flyBG = nil
+    end
+end
+
+RunService.RenderStepped:Connect(function()
+    if flyActive and HRP(LP) and Camera then
+        local hrp = HRP(LP)
+        local dir = Vector3.new()
+        if UserInputService:IsKeyDown(Enum.KeyCode.W) then dir = dir + Camera.CFrame.LookVector end
+        if UserInputService:IsKeyDown(Enum.KeyCode.S) then dir = dir - Camera.CFrame.LookVector end
+        if UserInputService:IsKeyDown(Enum.KeyCode.A) then dir = dir - Camera.CFrame.RightVector end
+        if UserInputService:IsKeyDown(Enum.KeyCode.D) then dir = dir + Camera.CFrame.RightVector end
+        if UserInputService:IsKeyDown(Enum.KeyCode.Space) then dir = dir + Vector3.new(0, 1, 0) end
+        if UserInputService:IsKeyDown(Enum.KeyCode.LeftControl) then dir = dir - Vector3.new(0, 1, 0) end
+        dir = dir.Unit * S.FlySpeed
+        flyBV.Velocity = dir
+        flyBG.CFrame = Camera.CFrame
+    end
+end)
+
+-- ══════════ LOOP: AIMBOT ══════════
+RunService.RenderStepped:Connect(function()
+    if S.Aimbot then
+        local m = GetMurderer()
+        if m then
+            local c = Char(m)
+            local part = S.AimPart == "Head" and c and c:FindFirstChild("Head") or HRP(m)
+            if part then
+                local sp, on = Camera:WorldToScreenPoint(part.Position)
+                if on then
+                    local center = Camera.ViewportSize / 2
+                    local dist = (Vector2.new(sp.X, sp.Y) - center).Magnitude
+                    if dist <= S.FOV then AimAt(m) end
+                end
+            end
+        end
+    end
+end)
+
+-- ══════════ LOOP: AUTO SHOOT / KILL ══════════
+task.spawn(function()
+    while task.wait(S.ShootDelay) do
+        local m = GetMurderer()
+        if m and Human(m) and Human(m).Health > 0 then
+            if S.AutoShoot and GetGunTool() then ShootGun() end
+            if S.KillOnSight and GetGunTool() then ShootGun() end
+            if S.AutoKill then KillMurderer() end
+            if S.KillAura and HRP(m) and HRP(LP) then
+                if (HRP(m).Position - HRP(LP).Position).Magnitude <= S.KillRange then KillMurderer() end
+            end
+            if S.AutoWin then
+                local gun = GetGunTool()
+                if gun then AimAt(m); ShootGun() else GrabGun() end
+            end
+        end
+    end
+end)
+
+-- ══════════ LOOP: FARM / ITEMS ══════════
+task.spawn(function()
+    while task.wait(S.LoopDelay) do
+        if S.AutoGrabGun and not GetGunTool() then GrabGun() end
+        if S.AutoGrabSpanner then GrabSpanner() end
+        if S.AutoEquipGun and GetGunTool() then Equip(GetGunTool()) end
+        if S.CrossbowMode then
+            local cb = LP.Backpack:FindFirstChild("Crossbow") or (Char(LP) and Char(LP):FindFirstChild("Crossbow"))
+            if cb then Equip(cb) end
+        end
+        if S.AutoCollect then
+            local coins = FindItems("coin")
+            if #coins > 0 then
+                TpTo(ItemPos(coins[1]))
+                task.wait(0.2)
+            end
+        end
+        if S.SmartMode and GetRole(LP) == "Innocent" and S.AutoCollect then
+            local coins = FindItems("coin")
+            if #coins > 0 then TpTo(ItemPos(coins[1])) end
+        end
+    end
+end)
+
+-- ══════════ LOOP: COIN MAGNET ══════════
+task.spawn(function()
+    while task.wait(0.1) do
+        if S.CoinMagnet and HRP(LP) then
+            local hrp = HRP(LP)
+            for _, coin in pairs(FindItems("coin")) do
+                if (ItemPos(coin) - hrp.Position).Magnitude <= S.MagnetRadius then
+                    pcall(function() coin:PivotTo(CFrame.new(hrp.Position + Vector3.new(0, 2, 0))) end)
+                end
+            end
+        end
+    end
+end)
+
+-- ══════════ LOOP: MOVEMENT / MISC ══════════
+RunService.Stepped:Connect(function()
+    local hum = Human(LP)
+    if hum then
+        if hum.WalkSpeed ~= S.WalkSpeed then hum.WalkSpeed = S.WalkSpeed end
+        if hum.JumpPower ~= S.JumpPower then hum.JumpPower = S.JumpPower end
+    end
+    if S.NoClip and Char(LP) then
+        for _, v in pairs(Char(LP):GetDescendants()) do
+            if v:IsA("BasePart") and v.CanCollide then v.CanCollide = false end
+        end
+    end
+    if S.CameraFOV and Camera and Camera.FieldOfView ~= S.CameraFOV then Camera.FieldOfView = S.CameraFOV end
+end)
+
+UserInputService.JumpRequest:Connect(function()
+    if S.InfiniteJump and Human(LP) then
+        pcall(function() Human(LP):ChangeState(Enum.HumanoidStateType.Jumping) end)
+    end
+end)
+
+-- ══════════ LOOP: ANTI AFK / RESPAWN ══════════
+task.spawn(function()
+    while task.wait(30) do
+        if S.AntiAfk then
+            pcall(function()
+                VirtualUser:CaptureController()
+                VirtualUser:Button2Down(Vector2.new(0, 0))
+                task.wait(0.1)
+                VirtualUser:Button2Up(Vector2.new(0, 0))
+            end)
+        end
+        if S.AutoRespawn and Human(LP) and Human(LP).Health <= 0 then
+            pcall(function() LP:LoadCharacter() end)
+        end
+    end
+end)
+
+-- ══════════ VISUALS: FULLBRIGHT / FOG / RAINBOW ══════════
+task.spawn(function()
+    local hue = 0
+    while task.wait(0.05) do
+        if S.Fullbright then
+            Lighting.Ambient = Color3.fromRGB(200, 200, 200)
+            Lighting.Brightness = 2
+            Lighting.ClockTime = 14
+            Lighting.OutdoorAmbient = Color3.fromRGB(180, 180, 180)
+        end
+        if S.NoFog then
+            Lighting.FogEnd = 100000
+            Lighting.FogStart = 100000
+        end
+        if S.RainbowLight then
+            hue = (hue + 0.002) % 1
+            Lighting.Ambient = Color3.fromHSV(hue, 0.4, 1)
+            Lighting.OutdoorAmbient = Color3.fromHSV(hue, 0.4, 1)
+        end
+        if S.RainbowUI then
+            pcall(function()
+                if OrionLib and OrionLib.Theme then
+                    OrionLib.Theme.Background = Color3.fromHSV(hue, 0.5, 0.15)
+                    OrionLib.Theme.Main = Color3.fromHSV(hue, 0.7, 0.25)
+                end
+            end)
+        end
+    end
+end)
+
+-- ══════════ DRAWINGS: FOV CIRCLE + CROSSHAIR ══════════
+local fovCircle = Drawing.new("Circle"); fovCircle.Thickness = 2; fovCircle.Radius = S.FOV; fovCircle.Color = S.Accent; fovCircle.Visible = false
+local xhairH = Drawing.new("Line"); xhairH.Thickness = 2; xhairH.Color = Color3.new(1, 0, 0); xhairH.Visible = false
+local xhairV = Drawing.new("Line"); xhairV.Thickness = 2; xhairV.Color = Color3.new(1, 0, 0); xhairV.Visible = false
+
+RunService.RenderStepped:Connect(function()
+    local center = Camera.ViewportSize / 2
+    fovCircle.Visible = S.ShowFOVCircle and S.Aimbot
+    fovCircle.Position = center
+    fovCircle.Radius = S.FOV
+    fovCircle.Color = S.Accent
+    xhairH.Visible = S.Crosshair; xhairH.From = Vector2.new(center.X - 10, center.Y); xhairH.To = Vector2.new(center.X + 10, center.Y)
+    xhairV.Visible = S.Crosshair; xhairV.From = Vector2.new(center.X, center.Y - 10); xhairV.To = Vector2.new(center.X, center.Y + 10)
+end)
+
+-- ══════════ ESP: PLAYERS ══════════
+local espObjs = {}
+local function GetESP(p)
+    if not espObjs[p] then
+        local e = {}
+        e.box = Drawing.new("Square"); e.box.Thickness = 2; e.box.Filled = false
+        e.name = Drawing.new("Text"); e.name.Center = true; e.name.Size = 14; e.name.Outline = true
+        e.tracer = Drawing.new("Line"); e.tracer.Thickness = 1
+        espObjs[p] = e
+    end
+    return espObjs[p]
+end
+
+local function UpdatePlayerESP(p, color, show)
+    local e = GetESP(p)
+    local hrp = HRP(p)
+    local hum = Human(p)
+    if not (hrp and hum and hum.Health > 0) then
+        e.box.Visible = false; e.name.Visible = false; e.tracer.Visible = false
+        return
+    end
+    local pos, on = Camera:WorldToScreenPoint(hrp.Position)
+    if not on then
+        e.box.Visible = false; e.name.Visible = false; e.tracer.Visible = false
+        return
+    end
+    local scale = 500 / (Camera.CFrame.Position - hrp.Position).Magnitude
+    local h = math.clamp(3.5 * scale, 10, 500)
+    local w = h * 0.65
+    e.box.Visible = S.ESP_Box and show
+    e.box.Color = color
+    e.box.Position = Vector2.new(pos.X - w / 2, pos.Y - h)
+    e.box.Size = Vector2.new(w, h)
+    e.name.Visible = S.ESP_Name and show
+    e.name.Color = color
+    e.name.Position = Vector2.new(pos.X, pos.Y - h - 14)
+    e.name.Text = p.Name .. " [" .. GetRole(p) .. "]"
+    e.tracer.Visible = S.ESP_Tracer and show
+    e.tracer.Color = color
+    e.tracer.From = Camera.ViewportSize / 2
+    e.tracer.To = Vector2.new(pos.X, pos.Y)
+end
+
+task.spawn(function()
+    while task.wait() do
+        for _, p in pairs(Players:GetPlayers()) do
+            if p ~= LP then
+                local role = GetRole(p)
+                local show = false
+                local col = Color3.new(1, 1, 1)
+                if role == "Murderer" and S.ESP_M then show = true; col = Color3.fromRGB(255, 30, 30) end
+                if role == "Sheriff" and S.ESP_S then show = true; col = Color3.fromRGB(30, 150, 255) end
+                if role == "Innocent" and S.ESP_I then show = true; col = Color3.fromRGB(120, 255, 120) end
+                UpdatePlayerESP(p, col, show)
+            end
+        end
+    end
+end)
+
+-- ══════════ ESP: ITEMS ══════════
+local itemESP = {}
+local function GetItemESP(i)
+    if not itemESP[i] then
+        itemESP[i] = Drawing.new("Text")
+        itemESP[i].Center = true
+        itemESP[i].Size = 13
+        itemESP[i].Outline = true
+    end
+    return itemESP[i]
+end
+
+task.spawn(function()
+    local idx = 0
+    while task.wait(0.1) do
+        local configs = {
+            {enabled = S.ESP_Coin, pattern = "coin", label = "🪙 COIN", color = Color3.fromRGB(255, 215, 0)},
+            {enabled = S.ESP_Gun, pattern = "gun", label = "🔫 GUN", color = Color3.fromRGB(255, 160, 0)},
+            {enabled = S.ESP_Spanner, pattern = "spanner", label = "🔧 SPANNER", color = Color3.fromRGB(0, 200, 255)},
+            {enabled = S.ESP_Crossbow, pattern = "crossbow", label = "🏹 CROSSBOW", color = Color3.fromRGB(200, 0, 255)},
+        }
+        idx = 0
+        for _, cfg in pairs(configs) do
+            if cfg.enabled then
+                local items = FindItems(cfg.pattern)
+                for i = 1, math.min(#items, 8) do
+                    idx = idx + 1
+                    local e = GetItemESP(idx)
+                    local pos, on = Camera:WorldToScreenPoint(ItemPos(items[i]))
+                    if on then
+                        e.Visible = true
+                        e.Position = Vector2.new(pos.X, pos.Y - 20)
+                        e.Text = cfg.label
+                        e.Color = cfg.color
+                    else
+                        e.Visible = false
+                    end
+                end
+            end
+        end
+        for i = idx + 1, #itemESP do
+            if itemESP[i] then itemESP[i].Visible = false end
+        end
+    end
+end)
+
+-- ══════════ UI ══════════
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Window = OrionLib:MakeWindow({
+    Name = "🔪 MM2 DELTA HUB 🔫 — KEYLESS",
+    HidePremium = false,
+    SaveConfig = true,
+    ConfigFolder = "MM2DeltaHub"
+})
+
+-- ─── TAB 1: MAIN ───
+local T1 = Window:MakeTab({Name = "Main", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T1:AddParagraph("Welcome", "Keyless MM2 script for Delta. 22 tabs, no key system, no gated content. Load and go.")
+T1:AddLabel("✅ STATUS: KEYLESS | LOADED")
+T1:AddButton({Name = "Destroy UI", Callback = function() OrionLib:Destroy() end})
+T1:AddButton({Name = "Rejoin Server", Callback = function()
+    pcall(function() game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, game.JobId, LP) end)
+end})
+
+-- ─── TAB 2: AIMBOT ───
+local T2 = Window:MakeTab({Name = "Aimbot", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T2:AddToggle({Name = "Aimbot", Default = S.Aimbot, Callback = function(v) S.Aimbot = v end})
+T2:AddSlider({Name = "FOV (degrees)", Min = 10, Max = 180, Default = S.FOV, Increment = 1, Callback = function(v) S.FOV = v end})
+T2:AddSlider({Name = "Smoothness", Min = 1, Max = 100, Default = S.Smoothness * 100, Increment = 1, Callback = function(v) S.Smoothness = v / 100 end})
+T2:AddToggle({Name = "Show FOV Circle", Default = S.ShowFOVCircle, Callback = function(v) S.ShowFOVCircle = v end})
+T2:AddDropdown({Name = "Aim Part", Default = S.AimPart, Options = {"Head", "HumanoidRootPart"}, Callback = function(v) S.AimPart = v end})
+T2:AddToggle({Name = "Aim Only With Gun", Default = false, Callback = function(v) S.AimOnlyGun = v end})
+
+-- ─── TAB 3: COMBAT ───
+local T3 = Window:MakeTab({Name = "Combat", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T3:AddToggle({Name = "Auto Shoot Murderer", Default = S.AutoShoot, Callback = function(v) S.AutoShoot = v end})
+T3:AddSlider({Name = "Shoot Delay (s)", Min = 1, Max = 20, Default = S.ShootDelay * 10, Increment = 1, Callback = function(v) S.ShootDelay = v / 10 end})
+T3:AddButton({Name = "🔫 SHOOT NOW", Callback = function()
+    local m = GetMurderer()
+    if m then AimAt(m) end
+    ShootGun()
+end})
+T3:AddToggle({Name = "Auto Knife (when no gun)", Default = S.AutoKnife, Callback = function(v) S.AutoKnife = v end})
+T3:AddToggle({Name = "Kill On Sight", Default = S.KillOnSight, Callback = function(v) S.KillOnSight = v end})
+
+-- ─── TAB 4: ESP ───
+local T4 = Window:MakeTab({Name = "ESP", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T4:AddToggle({Name = "ESP — Murderer (red)", Default = S.ESP_M, Callback = function(v) S.ESP_M = v end})
+T4:AddToggle({Name = "ESP — Sheriff (blue)", Default = S.ESP_S, Callback = function(v) S.ESP_S = v end})
+T4:AddToggle({Name = "ESP — Innocents (green)", Default = S.ESP_I, Callback = function(v) S.ESP_I = v end})
+T4:AddSection({Name = "ESP Style"})
+T4:AddToggle({Name = "Boxes", Default = S.ESP_Box, Callback = function(v) S.ESP_Box = v end})
+T4:AddToggle({Name = "Names + Role", Default = S.ESP_Name, Callback = function(v) S.ESP_Name = v end})
+T4:AddToggle({Name = "Tracers", Default = S.ESP_Tracer, Callback = function(v) S.ESP_Tracer = v end})
+T4:AddSection({Name = "Item ESP"})
+T4:AddToggle({Name = "Coins", Default = S.ESP_Coin, Callback = function(v) S.ESP_Coin = v end})
+T4:AddToggle({Name = "Gun", Default = S.ESP_Gun, Callback = function(v) S.ESP_Gun = v end})
+T4:AddToggle({Name = "Spanner", Default = S.ESP_Spanner, Callback = function(v) S.ESP_Spanner = v end})
+T4:AddToggle({Name = "Crossbow", Default = S.ESP_Crossbow, Callback = function(v) S.ESP_Crossbow = v end})
+
+-- ─── TAB 5: MOVEMENT ───
+local T5 = Window:MakeTab({Name = "Movement", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T5:AddSlider({Name = "WalkSpeed", Min = 16, Max = 250, Default = S.WalkSpeed, Increment = 1, Callback = function(v) S.WalkSpeed = v end})
+T5:AddSlider({Name = "JumpPower", Min = 50, Max = 500, Default = S.JumpPower, Increment = 10, Callback = function(v) S.JumpPower = v end})
+T5:AddToggle({Name = "Noclip", Default = S.NoClip, Callback = function(v) S.NoClip = v end})
+T5:AddToggle({Name = "Fly (WASD + Space/Ctrl)", Default = S.Fly, Callback = function(v) ToggleFly(v) end})
+T5:AddSlider({Name = "Fly Speed", Min = 10, Max = 300, Default = S.FlySpeed, Increment = 5, Callback = function(v) S.FlySpeed = v end})
+T5:AddToggle({Name = "Infinite Jump", Default = S.InfiniteJump, Callback = function(v) S.InfiniteJump = v end})
+
+-- ─── TAB 6: FARM ───
+local T6 = Window:MakeTab({Name = "Farm", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T6:AddToggle({Name = "Auto Collect Coins", Default = S.AutoCollect, Callback = function(v) S.AutoCollect = v end})
+T6:AddToggle({Name = "Coin Magnet", Default = S.CoinMagnet, Callback = function(v) S.CoinMagnet = v end})
+T6:AddSlider({Name = "Magnet Radius", Min = 10, Max = 200, Default = S.MagnetRadius, Increment = 5, Callback = function(v) S.MagnetRadius = v end})
+T6:AddButton({Name = "Collect All Coins Now", Callback = function()
+    for _, coin in pairs(FindItems("coin")) do
+        TpTo(ItemPos(coin))
+        task.wait(0.15)
+    end
+end})
+T6:AddToggle({Name = "Smart Farm (only as Innocent)", Default = S.SmartMode, Callback = function(v) S.SmartMode = v end})
+
+-- ─── TAB 7: GUNS ───
+local T7 = Window:MakeTab({Name = "Guns", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T7:AddToggle({Name = "Auto Grab Gun (teleport to drop)", Default = S.AutoGrabGun, Callback = function(v) S.AutoGrabGun = v end})
+T7:AddToggle({Name = "Auto Equip Gun", Default = S.AutoEquipGun, Callback = function(v) S.AutoEquipGun = v end})
+T7:AddButton({Name = "Grab Gun Now", Callback = GrabGun})
+T7:AddButton({Name = "Equip Gun", Callback = function() Equip(GetGunTool()) end})
+T7:AddToggle({Name = "Crossbow Mode (auto-equip crossbow)", Default = S.CrossbowMode, Callback = function(v) S.CrossbowMode = v end})
+T7:AddToggle({Name = "Keep Gun Equipped", Default = false, Callback = function(v) S.KeepGun = v end})
+
+-- ─── TAB 8: ITEMS ───
+local T8 = Window:MakeTab({Name = "Items", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T8:AddToggle({Name = "Auto Grab Spanner", Default = S.AutoGrabSpanner, Callback = function(v) S.AutoGrabSpanner = v end})
+T8:AddToggle({Name = "Auto Grab Knife", Default = S.AutoGrabKnife, Callback = function(v) S.AutoGrabKnife = v end})
+T8:AddButton({Name = "Grab Spanner Now", Callback = GrabSpanner})
+T8:AddButton({Name = "Drop Current Tool", Callback = function()
+    local c = Char(LP)
+    if c then
+        for _, v in pairs(c:GetChildren()) do
+            if v:IsA("Tool") then pcall(function() v.Parent = Workspace end) end
+        end
+    end
+end})
+T8:AddSlider({Name = "Item Loop Delay (s)", Min = 1, Max = 30, Default = S.LoopDelay * 10, Increment = 1, Callback = function(v) S.LoopDelay = v / 10 end})
+
+-- ─── TAB 9: VISUALS ───
+local T9 = Window:MakeTab({Name = "Visuals", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T9:AddToggle({Name = "Fullbright", Default = S.Fullbright, Callback = function(v) S.Fullbright = v end})
+T9:AddToggle({Name = "No Fog", Default = S.NoFog, Callback = function(v) S.NoFog = v end})
+T9:AddSlider({Name = "Camera FOV", Min = 70, Max = 120, Default = S.CameraFOV, Increment = 1, Callback = function(v) S.CameraFOV = v end})
+T9:AddToggle({Name = "Crosshair", Default = S.Crosshair, Callback = function(v) S.Crosshair = v end})
+T9:AddToggle({Name = "Rainbow Lighting", Default = S.RainbowLight, Callback = function(v) S.RainbowLight = v end})
+T9:AddColorpicker({Name = "Accent Color", Default = S.Accent, Callback = function(v) S.Accent = v end})
+
+-- ─── TAB 10: TELEPORTS ───
+local T10 = Window:MakeTab({Name = "Teleports", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T10:AddButton({Name = "Teleport to Murderer", Callback = function() local m = GetMurderer(); if m and HRP(m) then TpTo(HRP(m).Position) end end})
+T10:AddButton({Name = "Teleport to Coin", Callback = function() local c = FindItems("coin"); if #c > 0 then TpTo(ItemPos(c[1])) end end})
+T10:AddButton({Name = "Teleport to Gun", Callback = function() local g = FindItems("gun"); if #g > 0 then TpTo(ItemPos(g[1])) end end})
+T10:AddButton({Name = "Teleport to Spanner", Callback = function() local s = FindItems("spanner"); if #s > 0 then TpTo(ItemPos(s[1])) end end})
+T10:AddButton({Name = "Teleport to Crossbow", Callback = function() local x = FindItems("crossbow"); if #x > 0 then TpTo(ItemPos(x[1])) end end})
+T10:AddButton({Name = "Teleport to Random Player", Callback = function()
+    local ps = Players:GetPlayers()
+    local r = ps[math.random(1, #ps)]
+    if r and HRP(r) then TpTo(HRP(r).Position) end
+end})
+
+-- ─── TAB 11: SAFETY ───
+local T11 = Window:MakeTab({Name = "Safety", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T11:AddToggle({Name = "Anti AFK", Default = S.AntiAfk, Callback = function(v) S.AntiAfk = v end})
+T11:AddToggle({Name = "Auto Respawn", Default = S.AutoRespawn, Callback = function(v) S.AutoRespawn = v end})
+T11:AddToggle({Name = "Anti Fall Damage", Default = S.AntiFall, Callback = function(v) S.AntiFall = v end})
+T11:AddButton({Name = "🚨 PANIC — Disable Everything", Callback = function()
+    for k, _ in pairs(S) do
+        if type(S[k]) == "boolean" then S[k] = false end
+    end
+    ToggleFly(false)
+    pcall(function()
+        for _, e in pairs(espObjs) do e.box.Visible = false; e.name.Visible = false; e.tracer.Visible = false end
+        for _, e in pairs(itemESP) do e.Visible = false end
+    end)
+    OrionLib:MakeNotification({Name = "Panic", Content = "All features disabled", Time = 3})
+end})
+
+-- ─── TAB 12: PLAYER ───
+local roleLabel = T1
+local T12 = Window:MakeTab({Name = "Player", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+local myRole = T12:AddLabel({Name = "Role: ..."})
+T12:AddButton({Name = "Refresh Role", Callback = function() myRole:Set("Role: " .. GetRole(LP)) end})
+T12:AddToggle({Name = "Speed Boost After Kill", Default = false, Callback = function(v) S.SpeedBoost = v end})
+T12:AddSlider({Name = "Boost Speed", Min = 16, Max = 250, Default = 50, Increment = 1, Callback = function(v) S.BoostSpeed = v end})
+T12:AddToggle({Name = "Show Role Above My Head", Default = false, Callback = function(v) S.ShowMyRole = v end})
+
+task.spawn(function()
+    while task.wait(1) do
+        pcall(function() myRole:Set("Role: " .. GetRole(LP)) end)
+    end
+end)
+
+-- ─── TAB 13: WORLD ───
+local T13 = Window:MakeTab({Name = "World", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T13:AddToggle({Name = "Disable Shadows", Default = false, Callback = function(v)
+    if v then
+        pcall(function()
+            for _, s in pairs(Lighting:GetDescendants()) do
+                if s:IsA("Shadow") then s.Enabled = false end
+            end
+        end)
+    end
+end})
+T13:AddSlider({Name = "Ambient Brightness", Min = 0, Max = 3, Default = 1, Increment = 0.1, Callback = function(v) Lighting.Brightness = v end})
+T13:AddButton({Name = "Set Time: Day", Callback = function() Lighting.ClockTime = 14 end})
+T13:AddButton({Name = "Set Time: Night", Callback = function() Lighting.ClockTime = 0 end})
+T13:AddButton({Name = "Set Time: Sunset", Callback = function() Lighting.ClockTime = 18 end})
+
+-- ─── TAB 14: KILL ───
+local T14 = Window:MakeTab({Name = "Kill", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T14:AddToggle({Name = "Auto Kill Murderer", Default = S.AutoKill, Callback = function(v) S.AutoKill = v end})
+T14:AddButton({Name = "💀 Kill Murderer NOW", Callback = KillMurderer})
+T14:AddSlider({Name = "Kill Range", Min = 5, Max = 200, Default = S.KillRange, Increment = 1, Callback = function(v) S.KillRange = v end})
+T14:AddToggle({Name = "Teleport Kill (always teleport to target)", Default = S.TeleportKill, Callback = function(v) S.TeleportKill = v end})
+T14:AddToggle({Name = "Kill Aura (teleport + hit in range)", Default = S.KillAura, Callback = function(v) S.KillAura = v end})
+
+-- ─── TAB 15: MISC ───
+local T15 = Window:MakeTab({Name = "Misc", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T15:AddButton({Name = "Server Hop", Callback = function()
+    pcall(function() game:GetService("TeleportService"):Teleport(game.PlaceId) end)
+end})
+T15:AddToggle({Name = "Auto Rejoin on Death", Default = false, Callback = function(v) S.AutoRejoin = v end})
+T15:AddToggle({Name = "Sprint with Shift (x2 speed)", Default = false, Callback = function(v) S.Sprint = v end})
+T15:AddToggle({Name = "No Walk Animation Glitch Fix", Default = false, Callback = function(v) S.FixAnim = v end})
+
+RunService.RenderStepped:Connect(function()
+    if S.Sprint and UserInputService:IsKeyDown(Enum.KeyCode.LeftShift) and Human(LP) then
+        Human(LP).WalkSpeed = S.WalkSpeed * 2
+    end
+end)
+
+-- ─── TAB 16: SETTINGS ───
+local T16 = Window:MakeTab({Name = "Settings", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T16:AddParagraph("Config", "Orion auto-saves settings on leave. You can also save/load manually.")
+T16:AddButton({Name = "💾 Save Config", Callback = function()
+    pcall(function()
+        writefile("MM2DeltaHub_Config.json", HttpService:JSONEncode(S))
+        OrionLib:MakeNotification({Name = "Saved", Content = "Config saved to file", Time = 3})
+    end)
+end})
+T16:AddButton({Name = "📂 Load Config", Callback = function()
+    pcall(function()
+        local data = HttpService:JSONDecode(readfile("MM2DeltaHub_Config.json"))
+        for k, v in pairs(data) do S[k] = v end
+        OrionLib:MakeNotification({Name = "Loaded", Content = "Config loaded — restart script for full effect", Time = 3})
+    end)
+end})
+T16:AddButton({Name = "Reset Config", Callback = function()
+    pcall(function() writefile("MM2DeltaHub_Config.json", "{}") end)
+    OrionLib:MakeNotification({Name = "Reset", Content = "Config cleared", Time = 3})
+end})
+T16:AddToggle({Name = "Debug Logs", Default = S.DebugLogs, Callback = function(v) S.DebugLogs = v end})
+
+-- ─── TAB 17: INFO ───
+local T17 = Window:MakeTab({Name = "Info", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T17:AddParagraph("MM2 DELTA HUB", "Version 2.0 | Built with Orion Library")
+T17:AddLabel("🔑 KEYLESS — no key, no linkvertise, no gates")
+T17:AddLabel("⚡ Delta / Android / iOS compatible")
+T17:AddLabel("🛠️ For educational/testing use only")
+T17:AddButton({Name = "Copy Loadstring Line", Callback = function()
+    pcall(function() setclipboard('loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()') end)
+    OrionLib:MakeNotification({Name = "Copied", Content = "Orion loader line copied", Time = 3})
+end})
+
+-- ─── TAB 18: CONTROLS / KEYBINDS ───
+local T18 = Window:MakeTab({Name = "Controls", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T18:AddKeybind({Name = "Toggle Aimbot", Default = Enum.KeyCode.Q, Callback = function()
+    S.Aimbot = not S.Aimbot
+    OrionLib:MakeNotification({Name = "Aimbot", Content = tostring(S.Aimbot), Time = 1.5})
+end})
+T18:AddKeybind({Name = "SHOOT", Default = Enum.KeyCode.F, Callback = function()
+    local m = GetMurderer(); if m then AimAt(m) end
+    ShootGun()
+end})
+T18:AddKeybind({Name = "Teleport to Murderer", Default = Enum.KeyCode.T, Callback = function()
+    local m = GetMurderer(); if m and HRP(m) then TpTo(HRP(m).Position) end
+end})
+T18:AddKeybind({Name = "Toggle Fly", Default = Enum.KeyCode.X, Callback = function()
+    ToggleFly(not flyActive)
+end})
+
+-- ─── TAB 19: WEAPONS ───
+local T19 = Window:MakeTab({Name = "Weapons", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T19:AddDropdown({Name = "Weapon Mode", Default = "Auto", Options = {"Auto", "Gun", "Knife", "Crossbow"}, Callback = function(v)
+    S.WeaponMode = v
+    if v == "Gun" then Equip(GetGunTool()) end
+    if v == "Crossbow" then
+        local cb = LP.Backpack:FindFirstChild("Crossbow") or (Char(LP) and Char(LP):FindFirstChild("Crossbow"))
+        if cb then Equip(cb) end
+    end
+    if v == "Knife" then Equip(GetKnifeTool()) end
+end})
+T19:AddButton({Name = "Equip Selected", Callback = function()
+    if S.WeaponMode == "Gun" then Equip(GetGunTool()) end
+    if S.WeaponMode == "Knife" then Equip(GetKnifeTool()) end
+    if S.WeaponMode == "Crossbow" then
+        local cb = LP.Backpack:FindFirstChild("Crossbow") or (Char(LP) and Char(LP):FindFirstChild("Crossbow"))
+        if cb then Equip(cb) end
+    end
+end})
+T19:AddToggle({Name = "Auto Switch to Gun on Grab", Default = false, Callback = function(v) S.AutoSwitchGun = v end})
+
+-- ─── TAB 20: AUTO ───
+local T20 = Window:MakeTab({Name = "Auto", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T20:AddToggle({Name = "Auto Win Round (aim + shoot murderer)", Default = S.AutoWin, Callback = function(v) S.AutoWin = v end})
+T20:AddToggle({Name = "Auto Loot (gun + coins)", Default = false, Callback = function(v)
+    S.AutoLoot = v
+    if v then S.AutoGrabGun = true; S.AutoCollect = true end
+end})
+T20:AddToggle({Name = "Auto Grab Everything (gun + spanner + coins)", Default = false, Callback = function(v)
+    if v then S.AutoGrabGun = true; S.AutoGrabSpanner = true; S.AutoCollect = true end
+end})
+T20:AddSlider({Name = "Master Loop Delay (s)", Min = 1, Max = 30, Default = S.LoopDelay * 10, Increment = 1, Callback = function(v) S.LoopDelay = v / 10 end})
+
+-- ─── TAB 21: DEBUG ───
+local T21 = Window:MakeTab({Name = "Debug", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T21:AddButton({Name = "Print Murderer", Callback = function()
+    local m = GetMurderer(); print("[MM2HUB] Murderer:", m and m.Name or "none found")
+end})
+T21:AddButton({Name = "Print My Role", Callback = function() print("[MM2HUB] Role:", GetRole(LP)) end})
+T21:AddButton({Name = "Print Coin Count", Callback = function() print("[MM2HUB] Coins:", #FindItems("coin")) end})
+T21:AddButton({Name = "Clear All ESP", Callback = function()
+    pcall(function()
+        for _, e in pairs(espObjs) do e.box.Visible = false; e.name.Visible = false; e.tracer.Visible = false end
+        for _, e in pairs(itemESP) do e.Visible = false end
+    end)
+end})
+
+-- ─── TAB 22: THEME ───
+local T22 = Window:MakeTab({Name = "Theme", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+T22:AddToggle({Name = "Rainbow UI", Default = S.RainbowUI, Callback = function(v) S.RainbowUI = v end})
+T22:AddColorpicker({Name = "UI Background", Default = Color3.fromRGB(25, 25, 35), Callback = function(v)
+    pcall(function()
+        if OrionLib and OrionLib.Theme then
+            OrionLib.Theme.Background = v
+            OrionLib.Theme.Main = v
+            OrionLib.Theme.Title = v
+        end
+    end)
+end})
+T22:AddColorpicker({Name = "UI Accent", Default = S.Accent, Callback = function(v)
+    S.Accent = v
+    pcall(function()
+        if OrionLib and OrionLib.Theme then OrionLib.Theme.Accent = v end
+    end)
+end})
+
+-- ══════════ INIT ══════════
+OrionLib:Init()
+print("✅ [MM2HUB] Loaded — KEYLESS | 22 tabs active")
+OrionLib:MakeNotification({Name = "MM2 DELTA HUB", Content = "Loaded keyless — enjoy 🔪🔫", Time = 5})
